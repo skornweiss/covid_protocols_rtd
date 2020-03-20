@@ -1,6 +1,6 @@
 .. container::
 
-   Version 3.19.20
+   Version 3.19.20 
 
 Brigham and Women’s Hospital
 

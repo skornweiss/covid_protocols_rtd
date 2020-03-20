@@ -1,4 +1,6 @@
-|image0|
+ image:: images/bwh_logo.png
+  :width: 800
+  :alt: Brigham Women's Hospital Logo
 
 **Brigham and Women’s Hospital**
 

@@ -4,6 +4,8 @@
 
 Updated: 3/23/2020
 
+[This version may lag. See covidprotocols.org for latest version]
+
 **This document is a work in progress. We have much to learn.**
 
 **This is updated daily with evolving information; do not print.**

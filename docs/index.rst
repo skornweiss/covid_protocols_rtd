@@ -7,7 +7,7 @@ Updated: 3/23/2020
 see covidprotocols.org**
 
 `SCCM
-Guidelines <https://sccm.org/getattachment/Disaster/SSC-COVID19-Critical-Care-Guidelines.pdf?lang=en-US&_zs=WSjjd1&_zl=j1cc6>`__\ **are
+Guidelines <https://sccm.org/getattachment/Disaster/SSC-COVID19-Critical-Care-Guidelines.pdf?lang=en-US&_zs=WSjjd1&_zl=j1cc6>`__\ ** are
 being reviewed and incorporated but are not yet included.**
 
 **Send suggestions:** BWHCOVIDGuidelines@gmail.com

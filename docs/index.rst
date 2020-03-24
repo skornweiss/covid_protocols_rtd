@@ -1,21 +1,16 @@
-**Brigham and Women’s Hospital**
-
-**COVID-19 Critical Care Clinical Guidelines**
+**Brigham and Women’s Hospital COVID-19 Critical Care Clinical
+Guidelines**
 
 Updated: 3/23/2020
 
-[This version may lag. See covidprotocols.org for latest version]
-
-**This document is a work in progress. We have much to learn.**
-
-**This is updated daily with evolving information; do not print.**
+**This document is updated daily; do not print. For latest information
+see covidprotocols.org**
 
 `SCCM
 Guidelines <https://sccm.org/getattachment/Disaster/SSC-COVID19-Critical-Care-Guidelines.pdf?lang=en-US&_zs=WSjjd1&_zl=j1cc6>`__\ **are
-being reviewed and incorporated but are not yet reflected in this
-document**
+being reviewed and incorporated but are not yet included.**
 
-**Please send suggestions:** BWHCOVIDGuidelines@gmail.com
+**Send suggestions:** BWHCOVIDGuidelines@gmail.com
 
 **Disclaimer:** This document is intended as a resource for clinicians
 caring for critically-ill COVID-19 patients, based on available evidence
@@ -3186,15 +3181,15 @@ CAM = Confusion Assessment Method
 
 RASS = Richmond Agitation and Sedation Scale
 
-.. |image0| image:: .//media/image1.png
+.. |image0| image:: ./docs/media/image1.png
    :width: 5.07292in
    :height: 3.60938in
-.. |image1| image:: .//media/image2.png
+.. |image1| image:: ./docs/media/image2.png
    :width: 5.16146in
    :height: 1.31471in
-.. |image2| image:: .//media/image3.png
+.. |image2| image:: ./docs/media/image3.png
    :width: 3.27617in
    :height: 3.51563in
-.. |A screenshot of a cell phone Description automatically generated| image:: .//media/image4.png
+.. |A screenshot of a cell phone Description automatically generated| image:: ./docs/media/image4.png
    :width: 6.5in
    :height: 4.16736in

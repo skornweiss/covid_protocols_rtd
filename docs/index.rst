@@ -1,3 +1,6 @@
+.. toctree::
+   :maxdepth: 4
+
 |image0|
 
 **Brigham and Women’s Hospital**
@@ -116,7 +119,7 @@ Chapter 1: Non-ICU Management, Triage, Transfers
       iii. ~7% cardiac or heart failure alone
 
       iv.  Mortality rate appears to correlate with age and availability
-           of medical resources (`Ruan et al, Intensive Care Med,
+           of medical resources (Ruan et al, `Intensive Care Med,
            2020 <http://www.ncbi.nlm.nih.gov/pubmed/32125452>`__)
 
 2. .. rubric:: Personal Protective Equipment and Infection Control
@@ -495,7 +498,7 @@ i. *Rationale*: General consensus suggests that HFNC and NIPPV increase
    2. Other studies with very limited power exist, such as a post-hoc
       analysis that found no secondary infections in medical staff from
       patients with influenza H1N1 treated with HFNC but was limited to
-      only n=20 (`Rello et al, J Crit Care,
+      only n=20 (Rello `et al, J Crit Care,
       2012 <http://www.ncbi.nlm.nih.gov/pubmed/22762937>`__);
 
    3. Exhaled air distances are minimally increased with CPAP pressures
@@ -510,7 +513,7 @@ a. **Early intubation:**
 
         1. Case reports from China suggest high failure rates for
            non-invasive ventilation, including high-flow nasal oxygen
-           (`Zuo et al, Chin Med Sci J,
+           (Zuo et al, `Chin Med Sci J,
            2020 <http://www.ncbi.nlm.nih.gov/pubmed/32102726>`__)
 
    ii.  For patients maintained on Venturi mask, once FiO2 = 60% and
@@ -570,8 +573,8 @@ e. **Initial PEEP based on BMI:**
 
 f. **Initial FiO2:**
 
-   i. 100% on intubation then rapidly wean to SpO2 92-96% (`Barrot et
-      al, N Engl J Med,
+   i. 100% on intubation then rapidly wean to SpO2 92-96% (Barrot et al,
+      `N Engl J Med,
       2020 <http://www.ncbi.nlm.nih.gov/pubmed/32160661>`__)
 
 g. **Obtain STAT portable CXR to confirm endotracheal tube location:**
@@ -851,7 +854,7 @@ h. **Within 30 minutes of intubation, obtain an ABG (preferred) or a VBG
            55-70, SpO2 88-92%; or PaO2 90-105, SpO2 >95%); the trial was
            stopped after enrollment of 205 patients due to futility and
            safety concerns (44% mortality in conservative oxygen group
-           versus 30%; (`Barrot et al, New Eng J Med,
+           versus 30%; (B\ `arrot et al, New Eng J Med,
            2020 <http://www.ncbi.nlm.nih.gov/pubmed/32160661>`__).
 
 10. .. rubric:: Proning and Pulmonary Vasodilators
@@ -863,7 +866,7 @@ h. **Within 30 minutes of intubation, obtain an ABG (preferred) or a VBG
           trial (a departure from our typical practice for ARDS not due
           to COVID-19): < 36 hours from ARDS onset, start discussion of
           prone when P:F < 150, prone within 12 hours of FiO2 > 75%
-          (`Guérin et al, N Engl J Med,
+          (Guérin et al, `N Engl J Med,
           2013 <http://www.ncbi.nlm.nih.gov/pubmed/23688302>`__).
 
     b. **Eligibility criteria for proning:**
@@ -1242,7 +1245,7 @@ Chapter 3: COVID-19 Therapies and Clinical Trials
 
                 i.  Limited *in vitro* data notes that iNO at high doses
                     inhibits replication of SARS-CoV, but this has not
-                    been studied *in vivo*. (`Akerstrom et al, J Virol,
+                    been studied *in vivo*. (Akerstrom et al, `J Virol,
                     2005 <http://www.ncbi.nlm.nih.gov/pubmed/15650225>`__;
                     `Gebistorf et al, Cochrane Database Syst Rev,
                     2016 <http://www.ncbi.nlm.nih.gov/pubmed/27347773>`__)
@@ -1319,7 +1322,7 @@ Chapter 3: COVID-19 Therapies and Clinical Trials
 
           1. IL-6 inhibitors are approved for cytokine activation
              syndrome complications related to Chimeric Antigen Receptor
-             T cell (CAR-T) therapy (`Brudno and Kochenderfer, Blood
+             T cell (CAR-T) therapy (Brudno and Kochenderfer, `Blood
              Rev, 2019 <http://www.ncbi.nlm.nih.gov/pubmed/30528964>`__;
              `Rubin et al, Brain,
              2019 <http://www.ncbi.nlm.nih.gov/pubmed/30891590>`__).
@@ -1404,12 +1407,12 @@ Chapter 3: COVID-19 Therapies and Clinical Trials
 
        i.  Hydroxychloroquine (HQ) is an anti-malarial 4-aminoquinoline
            shown to have in vitro (but not yet in-vivo) activity against
-           diverse RNA viruses including SARS-CoV-1 (`Touret and de
+           diverse RNA viruses including SARS-CoV-1 (T\ `ouret and de
            Lamballerie, Antivir Res,
            2020 <http://www.ncbi.nlm.nih.gov/pubmed/32147496>`__).
 
-       ii. HQ is thought to act through multiple mechanisms (`Devaux et
-           al, Int J Antimicrob Agent,
+       ii. HQ is thought to act through multiple mechanisms (Devaux et
+           al, `Int J Antimicrob Agent,
            2020 <http://www.ncbi.nlm.nih.gov/pubmed/32171740>`__):
 
            1. **Inhibition of viral entry.** HQ inhibits synthesis of
@@ -1441,7 +1444,7 @@ Chapter 3: COVID-19 Therapies and Clinical Trials
            4. **Immune modulation.** HQ reduces toll-like receptors and
               cGAS-STING signaling. It has been shown to reduce release
               of a number of pro-inflammatory cytokines from several
-              immune cell types (`Schrezenmeier and Dorner, Nat Rev
+              immune cell types (Schrezenmeier and Dorner, `Nat Rev
               Rheum,
               2020 <http://www.ncbi.nlm.nih.gov/pubmed/32034323>`__).
 
@@ -1449,7 +1452,7 @@ Chapter 3: COVID-19 Therapies and Clinical Trials
 
        i.  An expert consensus group out of China suggests that
            Chloroquine improved lung imaging and shortened disease
-           course (`Zhonghua et al, CMAPH,
+           course (Zhonghua et al, `CMAPH,
            2020 <http://www.ncbi.nlm.nih.gov/pubmed/32075365>`__).
            Chloroquine will be included in the next treatment guidelines
            from the National Health Commission, but the specific data on
@@ -1537,7 +1540,7 @@ Chapter 3: COVID-19 Therapies and Clinical Trials
 
           2. It has also been hypothesized that the upregulation of ACE2
              is therapeutic in COVID-19 and that ARBs might be
-             protective in during infection (`Gurwitz D, Drug Dev Res,
+             protective in during infection (Gurwitz D, `Drug Dev Res,
              2020 <https://www.ncbi.nlm.nih.gov/pubmed/32129518>`__).
 
     b. **Recommendation:**
@@ -1655,7 +1658,7 @@ Chapter 4: Cardiac Complications of COVID-19
    b. **Incidence**:
 
       i. Incidence of 7-22% in hospitalized patients with COVID-19 in
-         China (`Ruan et al, Intensive Care Med,
+         China (Ruan et al, `Intensive Care Med,
          2020 <http://www.ncbi.nlm.nih.gov/pubmed/32125452>`__; `Wang et
          al, JAMA,
          2020 <http://www.ncbi.nlm.nih.gov/pubmed/32031570>`__; `Chen et
@@ -1690,7 +1693,7 @@ Chapter 4: Cardiac Complications of COVID-19
 
       i. The mechanism is unknown, though several have been proposed,
          based on very limited data outside of case series and reports
-         (`Ruan et al, Intensive Care Med,
+         (Ruan et al, `Intensive Care Med,
          2020 <https://www.ncbi.nlm.nih.gov/pubmed/32125452>`__; `Hu et
          al, Eur Heart J,
          2020 <http://www.ncbi.nlm.nih.gov/pubmed/32176300>`__; `Zeng et
@@ -1731,8 +1734,8 @@ Chapter 4: Cardiac Complications of COVID-19
       ii.  At BWH, COVID-19 floor patients also have telemetry.
 
       iii. For hospitals, with resource-limitations, telemetry is most
-           important for patients who meet AHA criteria (`Sandau et al,
-           Circulation,
+           important for patients who meet AHA criteria (Sandau et al,
+           `Circulation,
            2017 <http://www.ncbi.nlm.nih.gov/pubmed/28974521>`__).
 
    c. **ECGs:**
@@ -1835,8 +1838,8 @@ Chapter 4: Cardiac Complications of COVID-19
 
          1. The incidence of ACS is about 6 times as high within seven
             days of an influenza diagnosis than during control interval
-            - incidence ratio 6.05 (95% CI, 3.86 to 9.50) (`Kwong et al,
-            NEJM,
+            - incidence ratio 6.05 (95% CI, 3.86 to 9.50) (Kwong et al,
+            `NEJM,
             2018 <http://www.ncbi.nlm.nih.gov/pubmed/29365305>`__).
 
    b. **Workup:**
@@ -1892,7 +1895,7 @@ Chapter 4: Cardiac Complications of COVID-19
 
       i.  Myocarditis and pericarditis are potential manifestations of
           COVID-19 and source of Acute Cardiac Injury, based on case
-          reports/case series (`Ruan et al, Intensive Care Med,
+          reports/case series (Ruan et al, `Intensive Care Med,
           2020 <http://www.ncbi.nlm.nih.gov/pubmed/32125452>`__; `Zeng
           et al, Preprints,
           2020 <http://dx.doi.org/10.20944/preprints202003.0180.v1>`__;
@@ -2055,32 +2058,7 @@ Chapter 5: Shock: Septic, Cardiogenic, and Cytokine Storm
       video <https://www.khanacademy.org/science/health-and-medicine/circulatory-system-diseases/shock/v/differentiating-shock>`__
       is a helpful tutorial.
 
-+----------+----------+----------+----------+----------+----------+
-| **Type   | *        | **SVR**  | **CVP    | **ScvO2, | **Other  |
-| of       | *Cardiac |          | /Wedge** | MvO2**   | fe       |
-| Shock**  | Output** |          |          |          | atures** |
-+----------+----------+----------+----------+----------+----------+
-| **Cardi  | |        | |        | |        | |        |          |
-| ogenic** | image44| | image45| | image46| | image47| |          |
-+----------+----------+----------+----------+----------+----------+
-| **Dist   | |        | |        | |        | |        |          |
-| ributive | image48| | image49| | image50| | image51| |          |
-| (        |          |          |          |          |          |
-| sepsis,c |          |          |          |          |          |
-| ytokine, |          |          |          |          |          |
-| anaphy   |          |          |          |          |          |
-| laxis)** |          |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-| **Obstr  | |        | |        | |        | |        |          |
-| uctive** | image52| | image53| | image54| | image55| |          |
-+----------+----------+----------+----------+----------+----------+
-| **Hypov  | |        | |        | |        | |        |          |
-| olemic** | image56| | image57| | image58| | image59| |          |
-+----------+----------+----------+----------+----------+----------+
-| **Neur   | |        | |        | |image   | |        | **D      |
-| ogenic** | image60| | image61| | 62|\ **/ | image63| | ecreased |
-|          |          |          | normal** |          | HR**     |
-+----------+----------+----------+----------+----------+----------+
+|A screenshot of a cell phone Description automatically generated|
 
 3. .. rubric:: Septic Shock and Secondary Infections
       :name: septic-shock-and-secondary-infections
@@ -2095,10 +2073,10 @@ Chapter 5: Shock: Septic, Cardiogenic, and Cytokine Storm
              a. 20% of non-survivors (`Zhou et al, Lancet,
                 2020 <http://www.ncbi.nlm.nih.gov/pubmed/32171076>`__)
 
-             b. 16% of non-survivors (`Ruan et al, Intensive Care Med,
+             b. 16% of non-survivors (Ruan et al, `Intensive Care Med,
                 2020 <http://www.ncbi.nlm.nih.gov/pubmed/32125452>`__)
 
-             c. 12-19% In H1N1 epidemic (`MacIntyre et al, BMC Infect
+             c. 12-19% In H1N1 epidemic (MacIntyre et al, `BMC Infect
                 Dis,
                 2018 <http://www.ncbi.nlm.nih.gov/pubmed/30526505>`__)
 
@@ -2198,15 +2176,15 @@ Chapter 5: Shock: Septic, Cardiogenic, and Cytokine Storm
           Moreover, there were higher rates in non-survivors (52%, n=28)
           compared to survivors (12%, n=16). Among 21 patients admitted
           to an ICU in Washington State 33% (n=7) developed a new
-          cardiomyopathy (`Arentz et al, JAMA,
+          cardiomyopathy (Arentz et al, `JAMA,
           2020 <http://www.ncbi.nlm.nih.gov/pubmed/32191259>`__).
           Notably, these patients tended to be older with more
           comorbidities and had a high mortality (11 of the 21 died).
 
       ii. Heart failure or myocardial damage contributed to death in 39%
           (n=29) of deaths in a series of 68 patients in Wuhan. Most
-          (n=22 of 29) had concomitant respiratory failure (`Ruan et al,
-          Intensive Care Med,
+          (n=22 of 29) had concomitant respiratory failure (Ruan et al,
+          `Intensive Care Med,
           2020 <http://www.ncbi.nlm.nih.gov/pubmed/32125452>`__).
 
    b. **Diagnosis:**
@@ -2383,19 +2361,18 @@ Chapter 5: Shock: Septic, Cardiogenic, and Cytokine Storm
 
       ii. CBC with diff, PT/INR, PTT, fibrinogen, d-dimer, ferritin,
           liver function test, triglycerides, c-reactive protein (CRP)
-          (`Ruan et al, Intensive Care Med,
+          (Ruan et al, `Intensive Care Med,
           2020 <http://www.ncbi.nlm.nih.gov/pubmed/32125452>`__)
 
           1. CRP seems to correlate with disease severity and prognosis
-             of COVID-19 (`Ruan et al, Intensive Care Med,
+             of COVID-19 (Ruan et al, `Intensive Care Med,
              2020 <http://www.ncbi.nlm.nih.gov/pubmed/32125452>`__;
              `Young et al\ , JAMA,
              2020 <http://www.ncbi.nlm.nih.gov/pubmed/32125362>`__)
 
-          2. An HScore (`MDcalc online
-             calculator <http://www.mdcalc.com/hscore-reactive-hemophagocytic-syndrome>`__)
-             may be helpful in estimating the probability of secondary
-             HLH in these patients
+          2. An HScore (MDcalc online calculator) may be helpful in
+             estimating the probability of secondary HLH in these
+             patients
 
    d. **Management:**
 
@@ -2442,7 +2419,7 @@ Chapter 7: Thrombotic and Coagulation Manifestations
 
       i. Unclear incidence, though case reports suggest there may be
          increased venous thromboembolism (VTE) in COVID-19 patients
-         (`Xie et al, Radiol Cardiothoracic Imaging,
+         (Xie et al, `Radiol Cardiothoracic Imaging,
          2020 <http://doi.org/10.1148/ryct.2020200067>`__)
 
    b. **Pathophysiology:**
@@ -2527,8 +2504,7 @@ Chapter 7: Thrombotic and Coagulation Manifestations
 
       i.  Identify and treat underlying condition
 
-      ii. ISTH DIC score (`MDcalc online
-          calculator <http://www.mdcalc.com/isth-criteria-disseminated-intravascular-coagulation-dic>`__)
+      ii. ISTH DIC score (MDcalc online calculator)
 
           1. If score < 5, no DIC; recalculate in 1-2 days
 
@@ -2588,7 +2564,7 @@ Chapter 8: Renal Manifestations
    b. **Pathophysiology:**
 
       i. Likely that the most common pathophysiology will be acute
-         tubular necrosis (ATN) driven by shock (`Xianghong et al\ ,
+         tubular necrosis (ATN) driven by shock (Xianghong et al\ `,
          Natl Med J China,
          2020 <http://www.ncbi.nlm.nih.gov/pubmed/32145717>`__) and in
          some cases cytokine storm.
@@ -3718,183 +3694,6 @@ RASS = Richmond Agitation and Sedation Scale
 .. |image3| image:: .//media/image4.png
    :width: 3.27617in
    :height: 3.51563in
-.. |image4| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image5| image:: .//media/image6.png
-   :width: 0.27083in
-   :height: 0.5in
-.. |image6| image:: .//media/image6.png
-   :width: 0.27083in
-   :height: 0.5in
-.. |image7| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image8| image:: .//media/image6.png
-   :width: 0.27083in
-   :height: 0.5in
-.. |image9| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image10| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image11| image:: .//media/image6.png
-   :width: 0.27083in
-   :height: 0.5in
-.. |image12| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image13| image:: .//media/image6.png
-   :width: 0.27083in
-   :height: 0.5in
-.. |image14| image:: .//media/image6.png
-   :width: 0.27083in
-   :height: 0.5in
-.. |image15| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image16| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image17| image:: .//media/image6.png
-   :width: 0.27083in
-   :height: 0.5in
-.. |image18| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image19| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image20| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image21| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image22| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image23| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image24| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image25| image:: .//media/image6.png
-   :width: 0.27083in
-   :height: 0.5in
-.. |image26| image:: .//media/image6.png
-   :width: 0.27083in
-   :height: 0.5in
-.. |image27| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image28| image:: .//media/image6.png
-   :width: 0.27083in
-   :height: 0.5in
-.. |image29| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image30| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image31| image:: .//media/image6.png
-   :width: 0.27083in
-   :height: 0.5in
-.. |image32| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image33| image:: .//media/image6.png
-   :width: 0.27083in
-   :height: 0.5in
-.. |image34| image:: .//media/image6.png
-   :width: 0.27083in
-   :height: 0.5in
-.. |image35| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image36| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image37| image:: .//media/image6.png
-   :width: 0.27083in
-   :height: 0.5in
-.. |image38| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image39| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image40| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image41| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image42| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image43| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image44| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image45| image:: .//media/image6.png
-   :width: 0.27083in
-   :height: 0.5in
-.. |image46| image:: .//media/image6.png
-   :width: 0.27083in
-   :height: 0.5in
-.. |image47| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image48| image:: .//media/image6.png
-   :width: 0.27083in
-   :height: 0.5in
-.. |image49| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image50| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image51| image:: .//media/image6.png
-   :width: 0.27083in
-   :height: 0.5in
-.. |image52| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image53| image:: .//media/image6.png
-   :width: 0.27083in
-   :height: 0.5in
-.. |image54| image:: .//media/image6.png
-   :width: 0.27083in
-   :height: 0.5in
-.. |image55| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image56| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image57| image:: .//media/image6.png
-   :width: 0.27083in
-   :height: 0.5in
-.. |image58| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image59| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image60| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image61| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image62| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
-.. |image63| image:: .//media/image5.png
-   :width: 0.27083in
-   :height: 0.54167in
+.. |A screenshot of a cell phone Description automatically generated| image:: .//media/image5.png
+   :width: 6.5in
+   :height: 4.1625in

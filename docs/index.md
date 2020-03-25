@@ -48,164 +48,184 @@ GUIDE]{.underline}](https://www.dropbox.com/s/9ff4h4a8wea35oq/ICU%20CARE-%20covi
 
 **[Table of Contents]{.underline}**
 
-**[[COVID-19 one page Quick Guides:](#covid-19-one-page-quick-guides)
-1]{.underline}**
+**[[COVID-19 one page Quick
+Guides:](#covid-19-one-page-quick-guides)]{.underline}**
 
-**[[Chapter 1: Non-ICU Management, Triage, Transfers](#section)
-3]{.underline}**
+**[[Chapter 1: Non-ICU Management, Triage,
+Transfers](#chapter-1-non-icu-management-triage-transfers)]{.underline}**
 
-> [[Clinical Course of COVID-19](#clinical-course-of-covid-19)
-> 3]{.underline}
+> [[Clinical Course of
+> COVID-19](#clinical-course-of-covid-19)]{.underline}
 >
-> [[Non-ICU Management Principles](#infection-control) 4]{.underline}
+> [[Personal Protective Equipment and Infection
+> Control](#personal-protective-equipment-and-infection-control)]{.underline}
+>
+> [[Inpatient (non-ICU) Management
+> Principles](#inpatient-non-icu-management-principles)]{.underline}
 >
 > [[Chest Imaging and Point of Care Lung
-> Ultrasound](#chest-imaging-and-point-of-care-lung-ultrasound)
-> 6]{.underline}
+> Ultrasound](#chest-imaging-and-point-of-care-lung-ultrasound)]{.underline}
 >
-> [[Triage to ICU](#triage-to-icu) 6]{.underline}
+> [[Triage to ICU](#triage-to-icu)]{.underline}
 >
-> [[Transfer Process](#transfer-process) 6]{.underline}
+> [[Transfer Process](#transfer-process)]{.underline}
+>
+> [[Discharge Planning](#discharge-planning)]{.underline}
 
 **[[Chapter 2: Respiratory Support for COVID-19
-Patients](#chapter-2-respiratory-support-for-covid-19-patients)
-7]{.underline}**
+Patients](#chapter-2-respiratory-support-for-covid-19-patients)]{.underline}**
 
-> [[Respiratory Failure and ARDS](#respiratory-failure-and-ards)
-> 7]{.underline}
+> [[Respiratory Failure and
+> ARDS](#respiratory-failure-and-ards)]{.underline}
 >
-> [[Management of Hypoxemia](#management-of-hypoxemia) 7]{.underline}
+> [[Management of Hypoxemia](#management-of-hypoxemia)]{.underline}
 >
-> [[Initial Mechanical Ventilation](#initial-mechanical-ventilation)
-> 9]{.underline}
+> [[Intubation](#intubation)]{.underline}
 >
-> [[PEEP and Mechanics](#peep-and-mechanics) 10]{.underline}
+> [[Initial Mechanical
+> Ventilation](#initial-mechanical-ventilation)]{.underline}
+>
+> [[PEEP and Mechanics](#peep-and-mechanics)]{.underline}
 >
 > [[Targeting Sedation for Ventilator
-> Synchrony](#targeting-sedation-for-ventilator-synchrony)
-> 11]{.underline}
+> Synchrony](#targeting-sedation-for-ventilator-synchrony)]{.underline}
 >
 > [[General Management of Ventilated ARDS
-> Patients](#general-management-of-ventilated-ards-patients)
-> 12]{.underline}
+> Patients](#general-management-of-ventilated-ards-patients)]{.underline}
 >
-> [[Managing Ventilation](#managing-ventilation) 13]{.underline}
+> [[Managing Ventilation](#managing-ventilation)]{.underline}
 >
-> [[Managing Oxygenation](#managing-oxygenation) 13]{.underline}
+> [[Managing Oxygenation](#managing-oxygenation)]{.underline}
 >
 > [[Proning and Pulmonary
-> Vasodilators](#proning-and-pulmonary-vasodilators) 15]{.underline}
+> Vasodilators](#proning-and-pulmonary-vasodilators)]{.underline}
 >
-> [[ECMO consultation](#ecmo-consultation) 16]{.underline}
+> [[ECMO consultation](#ecmo-consultation)]{.underline}
+>
+> [[Ventilator Weaning](#ventilator-weaning)]{.underline}
 
 **[[Chapter 3: COVID-19 Therapies and Clinical
-Trials](#chapter-3-covid-19-therapies-and-clinical-trials)
-17]{.underline}**
+Trials](#chapter-3-covid-19-therapies-and-clinical-trials)]{.underline}**
 
-> [[Note:](#note) 17]{.underline}
+> [[Note:](#note)]{.underline}
 >
-> [[Clinical trials](#clinical-trials) 17]{.underline}
+> [[Clinical trials](#clinical-trials)]{.underline}
 >
-> [[Antibiotic stewardship](#antibiotic-stewardship) 17]{.underline}
+> [[Antibiotic Selection](#antibiotic-selection)]{.underline}
 >
-> [[Metered-dose inhalers (MDIs) vs.
-> nebulizers](#metered-dose-inhalers-mdis-vs.-nebulizers)
-> 18]{.underline}
+> [[Metered-Dose Inhalers (MDIs) vs.
+> Nebulizers](#metered-dose-inhalers-mdis-vs.-nebulizers)]{.underline}
 >
-> [[Airway Clearance](#airway-clearance) 19]{.underline}
+> [[Airway Clearance](#airway-clearance)]{.underline}
 >
-> [[Inhaled Pulmonary Vasodilators](#inhaled-pulmonary-vasodilators)
-> 19]{.underline}
+> [[Inhaled Pulmonary
+> Vasodilators](#inhaled-pulmonary-vasodilators)]{.underline}
 >
-> [[Systemic Corticosteroids](#systemic-corticosteroids) 20]{.underline}
+> [[Systemic Corticosteroids](#systemic-corticosteroids)]{.underline}
 >
 > [[Anti-IL6 Agents (Tocilizumab,
-> Siltuximab)](#anti-il6-agents-tocilizumab-siltuximab) 21]{.underline}
+> Siltuximab)](#anti-il6-agents-tocilizumab-siltuximab)]{.underline}
 >
 > [[Hydroxychloroquine and
-> Chloroquine](#hydroxychloroquine-and-chloroquine) 22]{.underline}
+> Chloroquine](#hydroxychloroquine-and-chloroquine)]{.underline}
 >
 > [[Angiotensin Converting Enzyme Inhibitors (ACE-I) and Angiotensin II
 > Receptor Blockers
-> (ARB)](#angiotensin-converting-enzyme-inhibitors-ace-i-and-angiotensin-ii-receptor-blockers-arb)
-> 23]{.underline}
+> (ARB)](#angiotensin-converting-enzyme-inhibitors-ace-i-and-angiotensin-ii-receptor-blockers-arb)]{.underline}
 >
 > [[Non-steroidal anti-inflammatory drugs
-> (NSAIDs)](#non-steroidal-anti-inflammatory-drugs-nsaids)
-> 24]{.underline}
+> (NSAIDs)](#non-steroidal-anti-inflammatory-drugs-nsaids)]{.underline}
 >
-> [[Blood Products](#blood-products) 24]{.underline}
+> [[Blood Products](#blood-products)]{.underline}
 
 **[[Chapter 4: Cardiac Complications of
-COVID-19](#chapter-4-cardiac-complications-of-covid-19)
-25]{.underline}**
+COVID-19](#chapter-4-cardiac-complications-of-covid-19)]{.underline}**
 
-> [[Acute Cardiac Injury](#acute-cardiac-injury) 25]{.underline}
+> [[Acute Cardiac Injury](#acute-cardiac-injury)]{.underline}
 >
-> [[Cardiovascular Testing](#cardiovascular-testing) 26]{.underline}
+> [[Cardiovascular Testing](#cardiovascular-testing)]{.underline}
 >
-> [[Arrhythmias](#arrhythmias) 26]{.underline}
+> [[Arrhythmias](#arrhythmias)]{.underline}
 >
-> [[Acute Coronary Syndromes](#acute-coronary-syndromes) 27]{.underline}
+> [[Acute Coronary Syndromes](#acute-coronary-syndromes)]{.underline}
 >
-> [[Pericarditis and Myocarditis](#pericarditis-and-myocarditis)
-> 28]{.underline}
+> [[Pericarditis and
+> Myocarditis](#pericarditis-and-myocarditis)]{.underline}
 
 **[[Chapter 5: Shock: Septic, Cardiogenic, and Cytokine
-Storm](#chapter-5-shock-septic-cardiogenic-and-cytokine-storm)
-29]{.underline}**
+Storm](#chapter-5-shock-septic-cardiogenic-and-cytokine-storm)]{.underline}**
 
-> [[Undifferentiated Shock in COVID](#undifferentiated-shock-in-covid)
-> 29]{.underline}
+> [[Undifferentiated Shock in
+> COVID](#undifferentiated-shock-in-covid)]{.underline}
 >
-> [[Differentiating Shock](#differentiating-shock) 30]{.underline}
+> [[Differentiating Shock](#differentiating-shock)]{.underline}
 >
 > [[Septic Shock and Secondary
-> Infections](#septic-shock-and-secondary-infections) 31]{.underline}
+> Infections](#septic-shock-and-secondary-infections)]{.underline}
 >
-> [[Cardiogenic Shock](#cardiogenic-shock) 33]{.underline}
+> [[Cardiogenic Shock](#cardiogenic-shock)]{.underline}
 >
-> [[Cytokine Activation Syndrome](#cytokine-activation-syndrome)
-> 35]{.underline}
+> [[Cytokine Activation
+> Syndrome](#cytokine-activation-syndrome)]{.underline}
 
-**[[Chapter 6: Thrombotic and Coagulation
-Manifestations](#chapter-6-thrombotic-and-coagulation-manifestations)
-36]{.underline}**
+**[[Chapter 6: Cardiac Arrest](#chapter-6-cardiac-arrest)]{.underline}**
 
-> [[Thrombotic Disease](#thrombotic-disease) 36]{.underline}
+> [[Management of Cardiac
+> Arrest](#management-of-cardiac-arrest)]{.underline}
+
+**[[Chapter 7: Thrombotic and Coagulation
+Manifestations](#chapter-7-thrombotic-and-coagulation-manifestations)]{.underline}**
+
+> [[Thrombotic Disease](#thrombotic-disease)]{.underline}
 >
 > [[Disseminated Intravascular Coagulation
-> (DIC)](#disseminated-intravascular-coagulation-dic) 37]{.underline}
+> (DIC)](#disseminated-intravascular-coagulation-dic)]{.underline}
 
-**[[Chapter 7: Renal Manifestations](#chapter-7-renal-manifestations)
-38]{.underline}**
+**[[Chapter 8: Renal
+Manifestations](#chapter-8-renal-manifestations)]{.underline}**
 
-> [[Acute Kidney Injury](#acute-kidney-injury) 38]{.underline}
+> [[Acute Kidney Injury](#acute-kidney-injury)]{.underline}
 
-**[[Chapter 8: Other Guidance](#chapter-8-other-guidance)
-39]{.underline}**
+**[[Chapter 9: Neurologic
+Manifestations](#chapter-9-neurologic-manifestations)]{.underline}**
 
-> [[Liver Disease](#liver-disease) 39]{.underline}
+> [[This section is in
+> process](#this-section-is-in-process)]{.underline}
+
+**[[Chapter 10: GI
+Manifestations](#chapter-10-gi-manifestations)]{.underline}**
+
+> [[Liver Disease](#liver-disease)]{.underline}
 >
-> [[Considerations for Oncology
-> Patients](#considerations-for-oncology-patients) 40]{.underline}
->
-> [[Goals of Care](#goals-of-care) 43]{.underline}
->
-> [[Management of Cardiac Arrest](#management-of-cardiac-arrest)
-> 43]{.underline}
->
-> [[The Role of Palliative Care](#the-role-of-palliative-care)
-> 44]{.underline}
->
-> [[Ethical Considerations and Resource
-> Allocation](#ethical-considerations-and-resource-allocation)
-> 44]{.underline}
+> [[Diarrheal illness](#diarrheal-illness)]{.underline}
 
-**[REFERENCES](#references) 46**
+**[[Chapter 11: Considerations for Oncology
+Patients](#chapter-11-considerations-for-oncology-patients)]{.underline}**
 
-**[ADDENDUM: COVID ICU Bundle
-Checklist](#addendum-covid-icu-bundle-checklist) 50**
+> [[General principles](#general-principles)]{.underline}
+>
+> [[Febrile Neutropenia](#febrile-neutropenia)]{.underline}
+>
+> [[Patients with Solid
+> Tumors](#patients-with-solid-tumors)]{.underline}
+
+**[[Chapter 12: The Role of Palliative
+Care](#chapter-12-the-role-of-palliative-care)]{.underline}**
+
+> [[Symptom Management](#symptom-management)]{.underline}
+>
+> [[Goals of Care](#goals-of-care)]{.underline}
+
+**[[Chapter 13: Ethical Considerations and Resource
+Allocation](#chapter-13-ethical-considerations-and-resource-allocation)]{.underline}**
+
+> [[This section is in
+> process](#this-section-is-in-process-1)]{.underline}
+
+**[[REFERENCES](#references)]{.underline}**
+
+**[[ADDENDUM: COVID ICU Bundle
+Checklist](#addendum-covid-icu-bundle-checklist)]{.underline}**
 
  
 
@@ -232,8 +252,8 @@ Chapter 1: Non-ICU Management, Triage, Transfers
         i.  Large droplets and fomites
 
             1.  Viral particles survive \< 24h on cardboard, \< 72h on
-                > plastic or steel ([[van Dorelmalen et al, *New Engl J
-                > Med,*]{.underline}
+                > plastic or steel ([[van Doremalen et al,]{.underline}
+                > *[New Engl J Med,]{.underline}*
                 > [2020]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32182409))
 
         ii. Aerosols (droplet nuclei, \< 5 µm), estimated \< 4h
@@ -302,8 +322,8 @@ Chapter 1: Non-ICU Management, Triage, Transfers
             > *Intensive Care Med,*]{.underline}
             > [2020]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32125452))
 
-2.  Infection Control
-    -----------------
+2.  Personal Protective Equipment and Infection Control
+    ---------------------------------------------------
 
     a.  **Personal Protective Equipment**
 
@@ -321,7 +341,7 @@ Chapter 1: Non-ICU Management, Triage, Transfers
 
     b.  **Isolation Protocols**
 
-        i.  This section is in process.
+        i.  *This section is in process.*
 
             1.  Partners Isolation Protocol will be linked here soon
                 > (Partners sign-in required)
@@ -457,7 +477,7 @@ Chapter 1: Non-ICU Management, Triage, Transfers
 4.  Chest Imaging and Point of Care Lung Ultrasound
     -----------------------------------------------
 
-    a.  *This section is in progress*
+    a.  *This section is in process*
 
 5.  Triage to ICU
     -------------
@@ -540,6 +560,11 @@ Chapter 1: Non-ICU Management, Triage, Transfers
             > management if patient does not have access to a personal
             > vehicle
 
+7.  Discharge Planning
+    ------------------
+
+    a.  *This section is in process*
+
 Chapter 2: Respiratory Support for COVID-19 Patients
 ====================================================
 
@@ -555,8 +580,8 @@ Chapter 2: Respiratory Support for COVID-19 Patients
             > [2020]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32085846))
 
         ii. Some evidence of direct viral injury to lung tissue, rather
-            > than purely hyperinflammatory process ([[Xu et al, *Lancet
-            > Respir Med,*]{.underline}
+            > than purely hyperinflammatory process ([[Xu et
+            > al,]{.underline} *[Lancet Respir Med,]{.underline}*
             > [2020]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32085846))
 
     b.  **Time course:**
@@ -602,19 +627,24 @@ Chapter 2: Respiratory Support for COVID-19 Patients
     b.  **Avoid high-flow nasal cannula (HFNC) and non-invasive positive
         > pressure ventilation (NIPPV; i.e. CPAP/BiPAP) for ARDS.**
 
-        i.  Patients on nocturnal NIPPV at home should continue their
-            > nocturnal NIPPV. However, patient must use BWH NIPPV
-            > [mask]{.underline} and [machine]{.underline} (not home
-            > mask/nasal pillow or machine due to increased aerosol risk
-            > with home pillows/mask/machine) under strict airborne
-            > precautions.
-
-        ii. If a patient already on HFNC or NIPPV becomes a COVID-19
-            > PUI, transition to non-rebreather if safe
+        i.  If a patient already on HFNC or NIPPV becomes a COVID-19
+            > PUI, transition to non-rebreather if safe.
 
             1.  Recommend that the patient be off an aerosol generating
                 > device like HFNC or NIPPV for 45 minutes prior to
-                > intubation if clinically feasible
+                > intubation if clinically feasible.
+
+        ii. Patients on home nocturnal NIPPV for severe sleep apnea may
+            > continue their nocturnal NIPPV. However, patient must use
+            > BWH NIPPV [mask]{.underline} and [machine]{.underline}
+            > (not home mask/nasal pillow or machine due to increased
+            > aerosol risk with home pillows/mask/machine) under strict
+            > airborne precautions - this includes a negative pressure
+            > room.
+
+            1.  If a negative pressure room is not available, avoid home
+                > NIPPV and use nocturnal oxygen instead whenever
+                > possible.
 
         iii. If a patient is DNR/DNI or otherwise is not eligible for
              > intubation:
@@ -660,6 +690,8 @@ c.  Ensure masks/devices fit well and there is minimal air leak (as
     > leaks propel potentially infected air significant distances - see
     > "Rationale" below)
 
+d.  Keep patient in a negative pressure room
+
 ```{=html}
 <!-- -->
 ```
@@ -677,10 +709,9 @@ i.  *Rationale*: General consensus suggests that HFNC and NIPPV increase
     2.  Other studies with very limited power exist, such as a post-hoc
         > analysis that found no secondary infections in medical staff
         > from patients with influenza H1N1 treated with HFNC but was
-        > limited to only n=20 ([[Rello et
-        > al,]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/22762937)
-        > [[*J Crit Care,*
-        > 2012]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/22762937));
+        > limited to only n=20 ([[Rello et al,]{.underline} *[J Crit
+        > Care,]{.underline}*
+        > [2012]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/22762937));
 
     3.  Exhaled air distances are minimally increased with CPAP
         > pressures up to 20 cm H2O and HFNC up to 60 LPM;
@@ -719,7 +750,12 @@ a.  **Early intubation:**
 ```{=html}
 <!-- -->
 ```
-3.  Initial Mechanical Ventilation
+3.  Intubation
+    ----------
+
+    a.  *This section is in process*
+
+4.  Initial Mechanical Ventilation
     ------------------------------
 
     a.  **Intubations outside of ICU:**
@@ -773,7 +809,7 @@ h.  **Within 30 minutes of intubation, obtain an ABG (preferred) or a
 ```{=html}
 <!-- -->
 ```
-4.  PEEP and Mechanics
+5.  PEEP and Mechanics
     ------------------
 
     a.  **If patients supported by Hamilton G5 Ventilator (most common),
@@ -811,7 +847,7 @@ h.  **Within 30 minutes of intubation, obtain an ABG (preferred) or a
              > table. This table is selected primarily to avoid doing
              > initial harm to patients with poor lung compliance and
              > was chosen following joint MGH and BWH
-             > discussion.![](.//media/image2.png){width="5.161458880139983in"
+             > discussion.![](.//media/image6.png){width="5.161458880139983in"
              > height="1.314711286089239in"}
 
     c.  **After best PEEP determined, obtain** **respiratory
@@ -829,7 +865,7 @@ h.  **Within 30 minutes of intubation, obtain an ABG (preferred) or a
 
     e.  **Routine esophageal balloon use is not recommended**
 
-5.  Targeting Sedation for Ventilator Synchrony
+6.  Targeting Sedation for Ventilator Synchrony
     -------------------------------------------
 
     a.  **Initially target RASS -2 to -3 (see table below):**
@@ -873,7 +909,7 @@ h.  **Within 30 minutes of intubation, obtain an ABG (preferred) or a
 > ![](.//media/image3.png){width="3.2761701662292215in"
 > height="3.5156255468066493in"}
 
-6.  General Management of Ventilated ARDS Patients
+7.  General Management of Ventilated ARDS Patients
     ----------------------------------------------
 
     a.  **Consider whether patient requires daily CXR:**
@@ -906,7 +942,7 @@ h.  **Within 30 minutes of intubation, obtain an ABG (preferred) or a
             > choices, you can request a pulmonary phone/in-person
             > consult (pager 11957).
 
-7.  Managing Ventilation
+8.  Managing Ventilation
     --------------------
 
     a.  **Follow ARDSnet ventilation where possible:**
@@ -950,7 +986,7 @@ h.  **Within 30 minutes of intubation, obtain an ABG (preferred) or a
             4.  If still no improvement, initiate prone ventilation (may
                 > improve V/Q matching and better ventilation)
 
-8.  Managing Oxygenation
+9.  Managing Oxygenation
     --------------------
 
     a.  **Minimizing oxygen toxicity:**
@@ -1051,11 +1087,10 @@ h.  **Within 30 minutes of intubation, obtain an ABG (preferred) or a
             > stopped after enrollment of 205 patients due to futility
             > and safety concerns (44% mortality in conservative oxygen
             > group versus 30%; ([[Barrot et al,]{.underline} [*New Eng
-            > J
-            > Med*,]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32160661)
-            > [[2020]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32160661)).
+            > J Med*,]{.underline}
+            > [2020]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32160661)).
 
-9.  Proning and Pulmonary Vasodilators
+10. Proning and Pulmonary Vasodilators
     ----------------------------------
 
     a.  **Prone early:**
@@ -1154,7 +1189,7 @@ h.  **Within 30 minutes of intubation, obtain an ABG (preferred) or a
             > section]{.underline}](#ecmo-consultation) of this
             > chapter).
 
-10. ECMO consultation
+11. ECMO consultation
     -----------------
 
     a.  **Refractory Hypoxemia:**
@@ -1198,6 +1233,11 @@ h.  **Within 30 minutes of intubation, obtain an ABG (preferred) or a
             10. No evidence of irreversible neurological injury
 
             11. Able to perform ADLs at baseline prior to illness
+
+12. Ventilator Weaning
+    ------------------
+
+    a.  *This section is in process*
 
 Chapter 3: COVID-19 Therapies and Clinical Trials
 =================================================
@@ -1244,10 +1284,10 @@ Chapter 3: COVID-19 Therapies and Clinical Trials
             > COVID-19 clinical trial. Verify that ICU treatment regimen
             > does not add harmful drug interactions with study agents.
 
-3.  Antibiotic stewardship
-    ----------------------
+3.  Antibiotic Selection
+    --------------------
 
-    a.  **Antibiotic choice:**
+    a.  **Empiric antibiotic choice:**
 
         i.  Antibiotics should reflect IDSA guidelines, presumed source,
             > and MDRO risk. For a presumed pulmonary source:
@@ -1265,9 +1305,9 @@ Chapter 3: COVID-19 Therapies and Clinical Trials
 
             3.  See special dispensations for oncology patients in
                 > [["Considerations for Oncology Patients"
-                > section]{.underline}](#considerations-for-oncology-patients)
-                > within [["Other Guidance"
-                > chapter]{.underline}](#chapter-8-other-guidance).
+                > section]{.underline}](#_aayfijcxre19) within [["Other
+                > Guidance"
+                > chapter]{.underline}](#chapter-9-neurologic-manifestations).
 
     b.  **Formulation:**
 
@@ -1310,13 +1350,14 @@ Chapter 3: COVID-19 Therapies and Clinical Trials
         > [[WHO, *COVID-19 Interim guidance*, March
         > 2020]{.underline}](http://www.who.int/publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-(ncov)-infection-is-suspected))
 
-4.  Metered-dose inhalers (MDIs) vs. nebulizers
+4.  Metered-Dose Inhalers (MDIs) vs. Nebulizers
     -------------------------------------------
 
     a.  **Non-intubated patients:**
 
         i.  For COVID-19 Confirmed or PUI, use MDI (inhalers), not
-            > nebulizers, due to the increased aerosol risk.
+            > nebulizers, due to the increased aerosol risk associated
+            > with nebulization.
 
         ii. Because MDI supply is limited, only prescribe when needed.
 
@@ -1330,9 +1371,13 @@ Chapter 3: COVID-19 Therapies and Clinical Trials
 
     b.  **Intubated patients:**
 
-        i.  The ventilator circuit is a closed system so nebulizers can
-            > be used when required (*e.g.,* DuoNeb standing and
-            > albuterol PRN).
+        i.  At BWH, an in-line nebulizer container is part of a closed
+            > ventilator circuit, so nebulizers can be used without
+            > opening the circuit and increasing aerosol risk.
+
+        ii. Other hospitals may need to add this set-up or add other
+            > options such as a Heat-Moisture-Exchanger that allows MDI
+            > delivery into a closed circuit.
 
     c.  **Rationale:** Nebulization may aerosolize viral particles and
         > contribute to disease transmission. COVID-19 clinical reports
@@ -1340,10 +1385,8 @@ Chapter 3: COVID-19 Therapies and Clinical Trials
         > patients require bronchodilators ([[Zhou et al,
         > *Lancet*,]{.underline}
         > [2020]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32171076);
-        > [[Yang et al, *Lancet
-        > Re*](http://www.ncbi.nlm.nih.gov/pubmed/32105632)*s[pir
-        > Med](http://www.ncbi.nlm.nih.gov/pubmed/32105632)*[,](http://www.ncbi.nlm.nih.gov/pubmed/32105632)]{.underline}
-        > [[2020]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32105632);
+        > [[Yang et al, *Lancet Respir Med*,]{.underline}
+        > [2020]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32105632);
         > [[Guan et al, *N Engl J Med*,]{.underline} [ ]{.underline}
         > [2020]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32109013);
         > [[WHO, *COVID-19 Interim guidance*, March
@@ -1357,16 +1400,18 @@ Chapter 3: COVID-19 Therapies and Clinical Trials
         i.  Reports from Wuhan and Italy indicate that some patients
             > develop very thick secretions causing dangerous mucus
             > plugging. However, nebulizers and airway clearance
-            > techniques may aerosolize secretions
+            > techniques may aerosolize secretions.
 
         ii. Airway clearance should be used only in **selected
             > ventilated patients (closed circuit)** with extremely
             > thick secretions to avoid mucus plugging that would
-            > require bronchoscopy
+            > require bronchoscopy.
 
-    b.  **For thinning secretions (in ventilated patients only):**
+    b.  **For thinning secretions:**
 
-        i.  Nebulized treatment options:
+        i.  Nebulized treatment options **in ventilated patients only,
+            > on strict airborne precautions in negative pressure
+            > room:**
 
             1.  Nebulized hypertonic (3-7%) saline once daily
 
@@ -1397,13 +1442,13 @@ Chapter 3: COVID-19 Therapies and Clinical Trials
 
     c.  **Airway clearance:**
 
-        i.  Continue chest PT vests if patient uses at home (*e.g.,* CF
+        i.  Avoid oscillating positive expiratory pressure devices
+            > (Aerobika or Acapella) and cough assist (MIE).
+
+        ii. Continue chest PT vests if patient uses at home (*e.g.,* CF
             > patients) with appropriate isolation precautions.
             > Bronchiectasis patients may be considered on a
             > case-by-case basis.
-
-        ii. Avoid oscillating positive expiratory pressure devices
-            > (Aerobika or Acapella) and cough assist (MIE).
 
 6.  Inhaled Pulmonary Vasodilators
     ------------------------------
@@ -1502,15 +1547,15 @@ Chapter 3: COVID-19 Therapies and Clinical Trials
     b.  **Recommendation**:
 
         i.  **We recommend against using steroids for COVID-19 except as
-            > part of a clinical trial**
+            > part of a clinical trial or if treating another
+            > indication**
 
             1.  This is in line with WHO guidance ([[WHO, *COVID-19
                 > Interim guidance*, March
                 > 2020]{.underline}](http://www.who.int/publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-(ncov)-infection-is-suspected)).
 
-    c.  **Use corticosteroids if required for other indications:**
-
-        i.  Use the lowest dose for the shortest duration:
+        ii. If required, use corticosteroids at the lowest dose for the
+            > shortest duration:
 
             1.  Asthma or COPD exacerbation
 
@@ -1565,14 +1610,13 @@ Chapter 3: COVID-19 Therapies and Clinical Trials
                 > available (Anecdotal reports from Italy; [[National
                 > Health Commission & State Administration of
                 > Traditional Chinese Medicine, *Diagnosis and Treatment
-                > Protocol for Novel Coronavirus
-                > Pneumonia*]{.underline}](http://busan.china-consulate.org/chn/zt/4/P020200310548447287942.pdf)
-                > [[*\[Trial Version 7\]*, March
+                > Protocol for Novel Coronavirus Pneumonia*]{.underline}
+                > [*\[Trial Version 7\]*, March
                 > 2020]{.underline}](http://busan.china-consulate.org/chn/zt/4/P020200310548447287942.pdf))
 
         ii. For severe cytokine activation syndrome cases (see [["Other
             > Guidance"
-            > chapter]{.underline}](#chapter-8-other-guidance)):
+            > chapter]{.underline}](#chapter-9-neurologic-manifestations)):
 
             a.  To be used in conjunction with Infectious Disease
                 > consultation in severe COVID-19 disease with suspicion
@@ -1645,9 +1689,8 @@ Chapter 3: COVID-19 Therapies and Clinical Trials
             1.  **Inhibition of viral entry.** HQ inhibits synthesis of
                 > sialic acids and interferes with protein
                 > glycosylation, which may disrupt interactions
-                > necessary for viral attachment and entry ([[Vincent
-                > et]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/16115318)
-                > [[al, *Virol J*,
+                > necessary for viral attachment and entry ([[Vincent et
+                > al,]{.underline} [*Virol J*,
                 > 2005]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/16115318);
                 > [[Olofsson et al, *Lancet Infect Dis,*]{.underline}
                 > [2005]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/15766653)).
@@ -1666,9 +1709,8 @@ Chapter 3: COVID-19 Therapies and Clinical Trials
                 > viruses have shown a resulting accumulation of
                 > non-infective viral particles, or an inability of
                 > viral particles to bud out of the host cell
-                > ([[Savarino et al, *J
-                > Acquir*]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/15076236)
-                > [[*Immune Defic
+                > ([[Savarino et al, *J Acquir*]{.underline} [*Immune
+                > Defic
                 > Syndr*,]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/15076236)
                 > [[2004]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/15076236);
                 > [[Klumperman et al, *J Virol*,
@@ -1701,8 +1743,10 @@ Chapter 3: COVID-19 Therapies and Clinical Trials
     c.  **Recommendation:**
 
         i.  Strong consideration of hydroxychloroquine in patients who
-            > require supplemental oxygen who are not candidates for
-            > other clinical trials.
+            > require supplemental oxygen, or in those not on
+            > supplemental oxygen but at high risk for progression to
+            > severe disease, who are not candidates for other clinical
+            > trials.
 
     d.  **Dosing *(from published literature)*:**
 
@@ -1756,9 +1800,10 @@ Chapter 3: COVID-19 Therapies and Clinical Trials
 
     a.  **Pathophysiology:**
 
-        i.  SARS-CoV-2, the virus that causes COVID-19, enters the same
-            > cell entry receptor as SARS-CoV: angiotensin converting
-            > enzyme II (ACE2) ([[Paules et al*, JAMA,*]{.underline}
+        i.  SARS-CoV-2, the virus that causes COVID-19, enters via the
+            > same cell entry receptor as SARS-CoV: angiotensin
+            > converting enzyme II (ACE2) ([[Paules et al*,
+            > JAMA,*]{.underline}
             > [2020]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/31971553)).
             > SARS-CoV-2 is thought to have a higher affinity to ACE2
             > than SARS-CoV.
@@ -1809,9 +1854,10 @@ Chapter 3: COVID-19 Therapies and Clinical Trials
     a.  **Pathophysiology:**
 
         i.  SARS-CoV-2 binds to cells via ACE2. ACE2 is upregulated by
-            > ibuprofen in animal models, and this might contribute (see
-            > [["Angiotensin Converting Enzyme Inhibitors (ACE-I) and
-            > Angiotensin II Receptor Blockers (ARB)"
+            > ibuprofen in animal models, and this might contribute to
+            > increased pathology (see [["Angiotensin Converting Enzyme
+            > Inhibitors (ACE-I) and Angiotensin II Receptor Blockers
+            > (ARB)"
             > section]{.underline}](#angiotensin-converting-enzyme-inhibitors-ace-i-and-angiotensin-ii-receptor-blockers-arb)
             > of this chapter).
 
@@ -1830,8 +1876,8 @@ Chapter 3: COVID-19 Therapies and Clinical Trials
                 > 2020]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32184201)).
 
             2.  WHO clarified on 3/20/20 it does not recommend avoiding
-                > NSAIDs as of 3/18/20 ([[WHO, *COVID-19 Interim
-                > guidance*, March
+                > NSAIDs as intially stated 3/18/20 ([[WHO, *COVID-19
+                > Interim guidance*, March
                 > 2020]{.underline}](http://www.who.int/publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-(ncov)-infection-is-suspected)).
 
 12. Blood Products 
@@ -1848,8 +1894,7 @@ Chapter 3: COVID-19 Therapies and Clinical Trials
 
             2.  Acute coronary syndrome: Hgb \> 10
 
-            3.  Oncology patients: if possible, reduce threshold to
-                > Hgb \>7
+            3.  Oncology patients: Hgb \>7
 
             4.  All others: Hgb \> 7
 
@@ -2314,11 +2359,11 @@ Chapter 5: Shock: Septic, Cardiogenic, and Cytokine Storm
 
   ***Type of Shock***                                 ***Cardiac Output***                                                                   ***SVR***                                                                              ***CVP/Wedge***                                                                                     ***ScvO2, MvO2***                                                                      ***Other features***
   --------------------------------------------------- -------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------- ----------------------
-  ***Cardiogenic***                                   ![](.//media/image6.png){width="0.2708333333333333in" height="0.5416666666666666in"}   ![](.//media/image1.png){width="0.2708333333333333in" height="0.5in"}                  ![](.//media/image1.png){width="0.2708333333333333in" height="0.5in"}                               ![](.//media/image6.png){width="0.2708333333333333in" height="0.5416666666666666in"}   
-  ***Distributive (sepsis,cytokine, anaphylaxis)***   ![](.//media/image1.png){width="0.2708333333333333in" height="0.5in"}                  ![](.//media/image6.png){width="0.2708333333333333in" height="0.5416666666666666in"}   ![](.//media/image6.png){width="0.2708333333333333in" height="0.5416666666666666in"}                ![](.//media/image1.png){width="0.2708333333333333in" height="0.5in"}                  
-  ***Obstructive***                                   ![](.//media/image6.png){width="0.2708333333333333in" height="0.5416666666666666in"}   ![](.//media/image1.png){width="0.2708333333333333in" height="0.5in"}                  ![](.//media/image1.png){width="0.2708333333333333in" height="0.5in"}                               ![](.//media/image6.png){width="0.2708333333333333in" height="0.5416666666666666in"}   
-  ***Hypovolemic***                                   ![](.//media/image6.png){width="0.2708333333333333in" height="0.5416666666666666in"}   ![](.//media/image1.png){width="0.2708333333333333in" height="0.5in"}                  ![](.//media/image6.png){width="0.2708333333333333in" height="0.5416666666666666in"}                ![](.//media/image6.png){width="0.2708333333333333in" height="0.5416666666666666in"}   
-  ***Neurogenic***                                    ![](.//media/image6.png){width="0.2708333333333333in" height="0.5416666666666666in"}   ![](.//media/image6.png){width="0.2708333333333333in" height="0.5416666666666666in"}   ![](.//media/image6.png){width="0.2708333333333333in" height="0.5416666666666666in"}***/normal***   ![](.//media/image6.png){width="0.2708333333333333in" height="0.5416666666666666in"}   ***Decreased HR***
+  ***Cardiogenic***                                   ![](.//media/image1.png){width="0.2708333333333333in" height="0.5416666666666666in"}   ![](.//media/image2.png){width="0.2708333333333333in" height="0.5in"}                  ![](.//media/image2.png){width="0.2708333333333333in" height="0.5in"}                               ![](.//media/image1.png){width="0.2708333333333333in" height="0.5416666666666666in"}   
+  ***Distributive (sepsis,cytokine, anaphylaxis)***   ![](.//media/image2.png){width="0.2708333333333333in" height="0.5in"}                  ![](.//media/image1.png){width="0.2708333333333333in" height="0.5416666666666666in"}   ![](.//media/image1.png){width="0.2708333333333333in" height="0.5416666666666666in"}                ![](.//media/image2.png){width="0.2708333333333333in" height="0.5in"}                  
+  ***Obstructive***                                   ![](.//media/image1.png){width="0.2708333333333333in" height="0.5416666666666666in"}   ![](.//media/image2.png){width="0.2708333333333333in" height="0.5in"}                  ![](.//media/image2.png){width="0.2708333333333333in" height="0.5in"}                               ![](.//media/image1.png){width="0.2708333333333333in" height="0.5416666666666666in"}   
+  ***Hypovolemic***                                   ![](.//media/image1.png){width="0.2708333333333333in" height="0.5416666666666666in"}   ![](.//media/image2.png){width="0.2708333333333333in" height="0.5in"}                  ![](.//media/image1.png){width="0.2708333333333333in" height="0.5416666666666666in"}                ![](.//media/image1.png){width="0.2708333333333333in" height="0.5416666666666666in"}   
+  ***Neurogenic***                                    ![](.//media/image1.png){width="0.2708333333333333in" height="0.5416666666666666in"}   ![](.//media/image1.png){width="0.2708333333333333in" height="0.5416666666666666in"}   ![](.//media/image1.png){width="0.2708333333333333in" height="0.5416666666666666in"}***/normal***   ![](.//media/image1.png){width="0.2708333333333333in" height="0.5416666666666666in"}   ***Decreased HR***
 
 3.  Septic Shock and Secondary Infections 
     -------------------------------------
@@ -2348,7 +2393,7 @@ Chapter 5: Shock: Septic, Cardiogenic, and Cytokine Storm
 
         i.  Early empiric antibiotics should be initiated within 1 hour
             > (see [["Antibiotic Stewardship"
-            > section]{.underline}](#antibiotic-stewardship) within
+            > section]{.underline}](#antibiotic-selection) within
             > [["COVID-19 Therapies and Clinical Trials"
             > chapter]{.underline}](#chapter-3-covid-19-therapies-and-clinical-trials))
 
@@ -2667,7 +2712,30 @@ Chapter 5: Shock: Septic, Cardiogenic, and Cytokine Storm
             > and outcomes, they may be beneficial in the
             > hyperinflammatory state.
 
-Chapter 6: Thrombotic and Coagulation Manifestations
+Chapter 6: Cardiac Arrest
+=========================
+
+1.  Management of Cardiac Arrest
+    ----------------------------
+
+    a.  **Early goals of care conversations are imperative.**
+
+        i.  The aim is to avoid unnecessary codes in patients without a
+            > reversible underlying condition.
+
+    b.  **Health care workers should be protected in code situations:**
+
+        i.  PPE should be worn by all healthcare workers, even if
+            > donning prolongs time the patient spends in a low-flow
+            > state during cardiac arrest.
+
+        ii. Codes should be run with an automated compression device
+            > where available and minimal personnel.
+
+    c.  **Full code guidelines are forthcoming and will be included here
+        > when available.**
+
+Chapter 7: Thrombotic and Coagulation Manifestations
 ====================================================
 
 1.  Thrombotic Disease
@@ -2816,7 +2884,7 @@ Chapter 6: Thrombotic and Coagulation Manifestations
             > Haemost,*]{.underline}
             > [2020]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32073213)).
 
-Chapter 7: Renal Manifestations 
+Chapter 8: Renal Manifestations 
 ===============================
 
 1.  Acute Kidney Injury
@@ -2935,8 +3003,14 @@ Chapter 7: Renal Manifestations
             > Kidney Int*,]{.underline} [ ]{.underline}
             > [2005]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/15673319)).
 
-Chapter 8: Other Guidance
-=========================
+Chapter 9: Neurologic Manifestations
+====================================
+
+*This section is in process*
+----------------------------
+
+Chapter 10: GI Manifestations
+=============================
 
 1.  Liver Disease
     -------------
@@ -3009,8 +3083,16 @@ Chapter 8: Other Guidance
             > patients with underlying cirrhosis, but societies such as
             > AASLD are working on registries of these patients.
 
-2.  Considerations for Oncology Patients 
-    ------------------------------------
+2.  Diarrheal illness
+    -----------------
+
+    a.  *This section is in process*
+
+Chapter 11: Considerations for Oncology Patients 
+================================================
+
+1.  General principles
+    ------------------
 
     a.  **Data:**
 
@@ -3083,9 +3165,8 @@ Chapter 8: Other Guidance
             1.  See [["Thrombotic Disease"
                 > section]{.underline}](#thrombotic-disease) within
                 > [["Thrombotic and Coagulation Manifestations"
-                > chapter]{.underline}](#chapter-6-thrombotic-and-coagulation-manifestations)
-                > for guidelines on both prophylactic and therapeutic
-                > anticoagulation.
+                > chapter]{.underline}](#_5s70bzlr4ojz) for guidelines
+                > on both prophylactic and therapeutic anticoagulation.
 
             2.  Remember to hold if platelet count \< 30K.
 
@@ -3095,67 +3176,7 @@ Chapter 8: Other Guidance
             > neutropenic and immune suppressed patients. Examine
             > catheters daily. Avoid rectal exam.
 
-    j.  **Febrile Neutropenia:**
-
-        i.  Definition:
-
-            1.  ANC \< 500 cells/mm3 AND T ≥ 101F or T ≥ 100.5 for 1hr
-
-        ii. Workup:
-
-            1.  Blood cultures from peripheral (ideally two sets), and
-                > each lumen of central line (label clearly); UA/sed
-                > with urine culture (UA may not be as informative with
-                > neutropenia); glucan and galactomannan (if not checked
-                > recently), sputum if able; CXR
-
-                a.  Continue DAILY blood cultures while febrile.
-
-                b.  Monitor serum galactomannan and 1-3-beta glucan once
-                    > weekly.
-
-                c.  Any positive glucan or galactomannan prompts ID
-                    > consult.
-
-        iii. Initial Empiric Antibiotics:
-
-             1.  GNRs: Ceftazidime OR Cefepime
-
-                 a.  Alternatives: Piperacillin-tazobactam (2nd line) or
-                     > meropenem (3rd line).
-
-             2.  GPCs: add Vancomycin if hemodynamically unstable, or if
-                 > MRSA pneumonia or catheter-associated infection is
-                 > suspected. Check dosing with pharmacy if able.
-
-        iv. Removal of lines:
-
-            1.  Catheter removal should be discussed if associated
-                > infection is suspected - involve primary oncologist
-                > and/or ID team to weigh risks and benefits, given that
-                > not all lines require removal.
-
-        v.  Persistent Neutropenic Fever:
-
-            1.  If fever persists x3 days despite antibiotics
-
-                a.  Micafungin 100mg IV daily
-
-                b.  Consideration of further imaging even if patient
-                    > appears stable (discuss with oncology / ID).
-
-        vi. Antiinfective course:
-
-            1.  Anti-Infectives should be continued until the patient
-                > has met all of these criteria:
-
-                a.  clinically improved, and
-
-                b.  has been afebrile for 48h, and
-
-                c.  has been non-neutropenic for 48h.
-
-    k.  **Transfusions:**
+    j.  **Transfusions:**
 
         i.  Blood bank reviews orders and will release appropriate
             > products (*i.e.*, irradiated, leukoreduced, etc).
@@ -3178,47 +3199,114 @@ Chapter 8: Other Guidance
             4.  FFP transfusion if procedure needed (INR of FFP =
                 > \~1.4).
 
-    l.  **Patients with Solid Tumors:**
+2.  Febrile Neutropenia
+    -------------------
 
-        i.  Patients with solid tumors are at very high risk of
-            > thrombosis but at lower risk of infection than most heme
-            > malignancy patients.
+    i.  Definition:
 
-        ii. Immune Checkpoint Inhibitors (ICIs) do not significantly
-            > immune suppress patients when used alone.
+        1.  ANC \< 500 cells/mm3 AND T ≥ 101F or T ≥ 100.5 for 1hr
 
-            1.  Most common are CTLA-4 inhibitor (ipilimumab) and
-                > PD-1/PD-L1 inhibitors (pembrolizumab, nivolumab,
-                > durvalumab, atezolizumab and avelumab).
+    ii. Workup:
 
-        iii. Immune toxicity:
+        1.  Blood cultures from peripheral (ideally two sets), and each
+            > lumen of central line (label clearly); UA/sed with urine
+            > culture (UA may not be as informative with neutropenia);
+            > glucan and galactomannan (if not checked recently), sputum
+            > if able; CXR
 
-             1.  If patient develops organ dysfunction, it may be due to
-                 > immune toxicity- consult the service team of the
-                 > involved organ system and inform primary oncologist.
+            a.  Continue DAILY blood cultures while febrile.
 
-             2.  Common immune toxicities include pneumonitis /
-                 > respiratory failure (may be difficult to distinguish
-                 > between COVID19 disease or may be aggravated by
-                 > COVID19 infection), colitis, endocrine dysfunction
-                 > (thyroid, pituitary / hypothalamic, adrenal),
-                 > nephritis. Less common hepatitis, meningitis,
-                 > dermatitis.
+            b.  Monitor serum galactomannan and 1-3-beta glucan once
+                > weekly.
 
-                 a.  Check TSH, ACTH, cortisol, T-spot, HIV, HBV, HCV
-                     > serologies if concerned.
+            c.  Any positive glucan or galactomannan prompts ID consult.
 
-             3.  Immune toxicities are usually treated with high dose
-                 > steroids - risks and benefits must be weighed
-                 > immediately with primary oncologist and ID consult
-                 > teams if immune toxicity is suspected concurrent with
-                 > COVID19 infection.
+    iii. Initial Empiric Antibiotics:
 
-             4.  BWH/DFCI iTox guidelines can be found
-                 > [[here]{.underline}](http://dfcionline.org/clinical/clinicalresources/immunotherapy-toxicity/)
-                 > on BWH/DFCI intranet.
+         1.  GNRs: Ceftazidime OR Cefepime
 
-3.  Goals of Care
+             a.  Alternatives: Piperacillin-tazobactam (2nd line) or
+                 > meropenem (3rd line).
+
+         2.  GPCs: add Vancomycin if hemodynamically unstable, or if
+             > MRSA pneumonia or catheter-associated infection is
+             > suspected. Check dosing with pharmacy if able.
+
+    iv. Removal of lines:
+
+        1.  Catheter removal should be discussed if associated infection
+            > is suspected - involve primary oncologist and/or ID team
+            > to weigh risks and benefits, given that not all lines
+            > require removal.
+
+    v.  Persistent Neutropenic Fever:
+
+        1.  If fever persists x3 days despite antibiotics
+
+            a.  Micafungin 100mg IV daily
+
+            b.  Consideration of further imaging even if patient appears
+                > stable (discuss with oncology / ID).
+
+    vi. Antiinfective course:
+
+        1.  Anti-Infectives should be continued until the patient has
+            > met all of these criteria:
+
+            a.  clinically improved, and
+
+            b.  has been afebrile for 48h, and
+
+            c.  has been non-neutropenic for 48h.
+
+3.  Patients with Solid Tumors
+    --------------------------
+
+    i.  Patients with solid tumors are at very high risk of thrombosis
+        > but at lower risk of infection than most heme malignancy
+        > patients.
+
+    ii. Immune Checkpoint Inhibitors (ICIs) do not significantly immune
+        > suppress patients when used alone.
+
+        1.  Most common are CTLA-4 inhibitor (ipilimumab) and PD-1/PD-L1
+            > inhibitors (pembrolizumab, nivolumab, durvalumab,
+            > atezolizumab and avelumab).
+
+    iii. Immune toxicity:
+
+         1.  If patient develops organ dysfunction, it may be due to
+             > immune toxicity- consult the service team of the involved
+             > organ system and inform primary oncologist.
+
+         2.  Common immune toxicities include pneumonitis / respiratory
+             > failure (may be difficult to distinguish between COVID19
+             > disease or may be aggravated by COVID19 infection),
+             > colitis, endocrine dysfunction (thyroid, pituitary /
+             > hypothalamic, adrenal), nephritis. Less common hepatitis,
+             > meningitis, dermatitis.
+
+             a.  Check TSH, ACTH, cortisol, T-spot, HIV, HBV, HCV
+                 > serologies if concerned.
+
+         3.  Immune toxicities are usually treated with high dose
+             > steroids - risks and benefits must be weighed immediately
+             > with primary oncologist and ID consult teams if immune
+             > toxicity is suspected concurrent with COVID19 infection.
+
+         4.  BWH/DFCI iTox guidelines can be found
+             > [[here]{.underline}](http://dfcionline.org/clinical/clinicalresources/immunotherapy-toxicity/)
+             > on BWH/DFCI intranet.
+
+Chapter 12: The Role of Palliative Care
+=======================================
+
+1.  Symptom Management
+    ------------------
+
+    a.  *This section is in process*
+
+2.  Goals of Care
     -------------
 
     a.  **Assess understanding and sign Health Care Proxy form on
@@ -3242,35 +3330,11 @@ Chapter 8: Other Guidance
 
         iii. Understanding of disease process
 
-4.  Management of Cardiac Arrest
-    ----------------------------
+Chapter 13: Ethical Considerations and Resource Allocation
+==========================================================
 
-    a.  **Early goals of care conversations are imperative.**
-
-        i.  The aim is to avoid unnecessary codes in patients without a
-            > reversible underlying condition.
-
-    b.  **Health care workers should be protected in code situations:**
-
-        i.  PPE should be worn by all healthcare workers, even if
-            > donning prolongs time the patient spends in a low-flow
-            > state during cardiac arrest.
-
-        ii. Codes should be run with an automated compression device
-            > where available and minimal personnel.
-
-    c.  **Full code guidelines are forthcoming and will be included here
-        > when available.**
-
-5.  The Role of Palliative Care
-    ---------------------------
-
-    a.  This section in in progress
-
-6.  Ethical Considerations and Resource Allocation
-    ----------------------------------------------
-
-    a.  This section is in progress
+*This section is in process*
+----------------------------
 
 **[Afterword]{.underline}**
 
@@ -3330,18 +3394,25 @@ REFERENCES
     > PMID:
     > [[32191259]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32191259).
 
-6.  Bozkurt B, Kovacs R, Harrington B. HFSA/ACC/AHA Statement Addresses
+6.  Barrot L, Asfar P, Mauny F, Winiszewski H, Montini F, Badie J, et
+    > al. Liberal or Conservative Oxygen Therapy for Acute Respiratory
+    > Distress Syndrome. *N Engl J Med.* 2020;382(11):999-1008. DOI:
+    > [[10.1056/NEJMoa1916431]{.underline}](https://doi.org/10.1056/nejmoa1916431).
+    > PMID:
+    > [[32160661]{.underline}](https://www.ncbi.nlm.nih.gov/pubmed/32160661).
+
+7.  Bozkurt B, Kovacs R, Harrington B. HFSA/ACC/AHA Statement Addresses
     > Concerns Re: Using RAAS Antagonists in COVID-19. Mar 17, 2020.
     > [[https://www.acc.org/sitecore/content/Sites/ACC/Home/Latest-in-Cardiology/Articles/2020/03/17/08/59/HFSA-ACC-AHA-Statement-Addresses-Concerns-Re-Using-RAAS-Antagonists-in-COVID-19]{.underline}](https://www.acc.org/sitecore/content/Sites/ACC/Home/Latest-in-Cardiology/Articles/2020/03/17/08/59/HFSA-ACC-AHA-Statement-Addresses-Concerns-Re-Using-RAAS-Antagonists-in-COVID-19)
 
-7.  Brudno JN, Kochenderfer JN. Recent advances in CAR T-cell toxicity:
+8.  Brudno JN, Kochenderfer JN. Recent advances in CAR T-cell toxicity:
     > Mechanisms, manifestations and management. *Blood Rev*.
     > 2019;34:45-55. DOI:
     > [[10.1016/j.blre.2018.11.002]{.underline}](http://dx.doi.org/10.1016/j.blre.2018.11.002).
     > PMID:
     > [[30528964]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/30528964).
 
-8.  Chen N, Zhou M, Dong X, et al. Epidemiological and clinical
+9.  Chen N, Zhou M, Dong X, et al. Epidemiological and clinical
     > characteristics of 99 cases of 2019 novel coronavirus pneumonia in
     > Wuhan, China: a descriptive study. *Lancet*.
     > 2020;395(10223):507-513. DOI:
@@ -3349,39 +3420,46 @@ REFERENCES
     > PMID:
     > [[32007143]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32007143).
 
-9.  Chen S, Yang J, Yang W, et al. COVID-19 control in China during mass
+10. Chen S, Yang J, Yang W, et al. COVID-19 control in China during mass
     > population movements at New Year. *Lancet.* 2020 Mar
     > 7;395(10226):764-766. DOI:
     > [[10.1016/S0140-6736(20)30421-9]{.underline}](http://doi.org/10.1016/S0140-6736(20)30421-9).
     > PMID:
     > [[32105609]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32105609).
 
-10. Cheng Y, Luo R, Wang K, et al. Kidney Impairment Is Associated with
+11. Cheng Y, Luo R, Wang K, et al. Kidney Impairment Is Associated with
     > In-Hospital Death of COVID-19 Patients. *medRxiv*. 2020. DOI:
     > [[10.1101/2020.02.18.20023242]{.underline}](http://dx.doi.org/10.1101/2020.02.18.20023242).
     > Preprint.
 
-11. Chu KH, Tsang WK, Tang CS, et al. Acute renal impairment in
+12. Chu KH, Tsang WK, Tang CS, et al. Acute renal impairment in
     > coronavirus-associated severe acute respiratory syndrome. *Kidney
     > Int*. 2005;67(2):698-705. DOI:
     > [[10.1111/j.1523-1755.2005.67130.x]{.underline}](http://dx.doi.org/10.1111/j.1523-1755.2005.67130.x).
     > PMID:
     > [[15673319]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/15673319).
 
-12. Day, M. COVID-19: ibuprofen should not be used for managing
+13. Day, M. COVID-19: ibuprofen should not be used for managing
     > symptoms, say doctors and scientists. *BMJ*. 2020;368:m1086. DOI:
     > [[10.1136/bmj.m1086]{.underline}](http://dx.doi.org/10.1136/bmj.m1086).
     > PMID:
     > [[32184201]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32184201).
 
-13. Delaney JW, Pinto R, Long J, et al. The influence of corticosteroid
+14. Delaney JW, Pinto R, Long J, et al. The influence of corticosteroid
     > treatment on the outcome of influenza A(H1N1pdm09)-related
     > critical illness. *Crit Care*. 2016;20:75. DOI:
     > [[10.1186/s13054-016-1230-8]{.underline}](http://dx.doi.org/%2010.1186/s13054-016-1230-8).
     > PMID:
     > [[27036638]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/27036638).
 
-14. Famous KR, Delucchi K, Ware LB, et al. Acute Respiratory Distress
+15. Devaux CA, Rolain JM, Colson P, Raoult D. New insights on the
+    > antiviral effects of chloroquine against coronavirus: what to
+    > expect for COVID-19? *Int J Antimicrob Agents.* 2020:105938. DOI:
+    > [[10.1016/j.ijantimicag.2020.105938]{.underline}](https://doi.org/10.1016/j.ijantimicag.2020.105938).
+    > PMID:
+    > [[32171740]{.underline}](https://www.ncbi.nlm.nih.gov/pubmed/32171740).
+
+16. Famous KR, Delucchi K, Ware LB, et al. Acute Respiratory Distress
     > Syndrome Subphenotypes Respond Differently to Randomized Fluid
     > Management Strategy. *Am J Respir Crit Care Med.*
     > 2017;195(3):331-338. DOI:
@@ -3389,68 +3467,74 @@ REFERENCES
     > PMID:
     > [[27513822]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/27513822).
 
-15. Fan C, Li K, Ding Y, Lu WL, Wang J. ACE2 Expression in Kidney and
+17. Fan C, Li K, Ding Y, Lu WL, Wang J. ACE2 Expression in Kidney and
     > Testis May Cause Kidney and Testis Damage After 2019-NCoV
     > Infection. *medRxiv*. 2020. DOI:
     > [[10.1101/2020.02.12.20022418]{.underline}](http://dx.doi.org/10.1101/2020.02.12.20022418).
     > Preprint.
 
-16. Fang, L, Karakiulakis G, Roth, M. Are patients with hypertension and
+18. Fang, L, Karakiulakis G, Roth, M. Are patients with hypertension and
     > diabetes mellitus at increased risk for COVID-19 infection?
     > *Lancet Respir Med*. 2020. DOI:
     > [[10.1016/S2213-2600(20)30116-8]{.underline}](http://dx.doi.org/10.1016/S2213-2600(20)30116-8).
     > PMID:
     > [[32171062]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32171062).
 
-17. Fuller BM, Mohr NM, Skrupky L, et al. The use of inhaled
+19. Fuller BM, Mohr NM, Skrupky L, et al. The use of inhaled
     > prostaglandins in patients with ARDS: a systematic review and
     > meta-analysis. *Chest*. 2015 Jun;147(6):1510-1522. DOI:
     > [[10.1378/chest.14-3161]{.underline}](https://dx.doi.org/10.1378/chest.14-3161).
     > PMID:
     > [[25742022]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/25742022).
 
-18. Gajic O, Dzik WH, Toy P. Fresh frozen plasma and platelet
+20. Gajic O, Dzik WH, Toy P. Fresh frozen plasma and platelet
     > transfusion for nonbleeding patients in the intensive care unit:
     > benefit or harm? *Crit Care Med*. 2006;34(5 Suppl):S170-3. DOI:
     > [[10.1097/01.CCM.0000214288.88308.26]{.underline}](http://dx.doi.org/10.1097/01.CCM.0000214288.88308.26).
     > PMID:
     > [[25742022]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/25742022).
 
-19. Gao J, Tian Z, Yang X. Breakthrough: Chloroquine phosphate has shown
+21. Gao J, Tian Z, Yang X. Breakthrough: Chloroquine phosphate has shown
     > apparent efficacy in treatment of COVID-19 associated pneumonia in
     > clinical studies. *Biosci Trends*. 2020. DOI:
     > [[10.5582/bst.2020.01047]{.underline}](http://dx.doi.org/10.5582/bst.2020.01047).
     > PMID:
     > [[32074550]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32074550).
 
-20. Gebistorf F, Karam O, Wetterslev J, Afshari A. Inhaled nitric oxide
+22. Gebistorf F, Karam O, Wetterslev J, Afshari A. Inhaled nitric oxide
     > for acute respiratory distress syndrome (ARDS) in children and
     > adults. *Cochrane Database Syst Rev*. 2016;(6):CD002787. DOI:
     > [[10.1002/14651858.CD002787.pub3]{.underline}](http://dx.doi.org/10.1002/14651858.CD002787.pub3).
     > PMID:
     > [[27347773]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/27347773).
 
-21. Grissom CK, Hirshberg EL, Dickerson JB, et al. Fluid management with
+23. Grissom CK, Hirshberg EL, Dickerson JB, et al. Fluid management with
     > a simplified conservative protocol for the acute respiratory
     > distress syndrome\*. *Crit Care Med*. 2015;43(2):288-95. DOI:
     > [[10.1097/CCM.0000000000000715]{.underline}](http://dx.doi.org/10.1097/CCM.0000000000000715).
     > PMID:
     > [[25599463]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/25599463).
 
-22. Guan WJ, Ni ZY, Hu Y, et al. Clinical Characteristics of Coronavirus
+24. Guan WJ, Ni ZY, Hu Y, et al. Clinical Characteristics of Coronavirus
     > Disease 2019 in China. *N Engl J Med*. 2020. DOI:
     > [[10.1056/NEJMoa2002032]{.underline}](http://dx.doi.org/10.1056/NEJMoa2002032).
     > PMID:
     > [[32109013]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32109013).
 
-23. Guérin C, Reignier J, Richard JC, et al. Prone positioning in severe
+25. Guérin C, Reignier J, Richard JC, et al. Prone positioning in severe
     > acute respiratory distress syndrome. *N Engl J Med*.
     > 2013;368(23):2159-68. DOI:
     > [[10.1056/NEJMoa1214103]{.underline}](http://dx.doi.org/10.1056/NEJMoa1214103).
     > PMID:
     > [[23688302]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/23688302).
 
-24. Hamming I, Timens W, Bulthuis ML, et al. Tissue distribution of ACE2
+26. Gurwitz D. Angiotensin receptor blockers as tentative SARS-CoV-2
+    > therapeutics. *Drug Dev Res.* 2020. DOI:
+    > [[10.1002/ddr.21656]{.underline}](https://doi.org/10.1002/ddr.21656).
+    > PMID:
+    > [[32129518]{.underline}](https://www.ncbi.nlm.nih.gov/pubmed/32129518).
+
+27. Hamming I, Timens W, Bulthuis ML, et al. Tissue distribution of ACE2
     > protein, the functional receptor for SARS coronavirus. A first
     > step in understanding SARS pathogenesis. *J Pathol.* 2004
     > Jun;203(2):631-7. DOI:
@@ -3458,7 +3542,7 @@ REFERENCES
     > PMID:
     > [[15141377]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/15141377).
 
-25. Hébert PC, Wells G, Blajchman MA, et al. A multicenter, randomized,
+28. Hébert PC, Wells G, Blajchman MA, et al. A multicenter, randomized,
     > controlled clinical trial of transfusion requirements in critical
     > care. Transfusion Requirements in Critical Care Investigators,
     > Canadian Critical Care Trials Group. *N Engl J Med*.
@@ -3467,72 +3551,94 @@ REFERENCES
     > PMID:
     > [[9971864]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/9971864).
 
-26. Holst LB, Haase N, Wetterslev J, et al. Lower versus higher
+29. Holst LB, Haase N, Wetterslev J, et al. Lower versus higher
     > hemoglobin threshold for transfusion in septic shock. *N Engl J
     > Med*. 2014;371(15):1381-91. DOI:
     > [[10.1056/NEJMoa1406617]{.underline}](http://dx.doi.org/10.1056/NEJMoa1406617).
     > PMID:
     > [[25270275]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/25270275).
 
-27. Hu H, Ma F, Wei X, Fang Y. Coronavirus fulminant myocarditis saved
+30. Hu H, Ma F, Wei X, Fang Y. Coronavirus fulminant myocarditis saved
     > with glucocorticoid and human immunoglobulin. *Eur Heart J*. 2020.
     > DOI:
     > [[10.1093/eurheartj/ehaa190]{.underline}](http://dx.doi.org/10.1093/eurheartj/ehaa190).
     > PMID:
     > [[32176300]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32176300).
 
-28. Hui DS, Chow BK, Lo T, et al. Exhaled air dispersion during
-    > high-flow nasal cannula therapy CPAP different masks. *Eur Respir
-    > J*. 2019;53(4). DOI:
+31. Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical features
+    > of patients infected with 2019 novel coronavirus in Wuhan, China.
+    > *Lancet.* 2020;395(10223):497-506. DOI:
+    > [[10.1016/S0140-6736(20)30183-5]{.underline}](https://doi.org/10.1016/s0140-6736(20)30183-5).
+    > PMID:
+    > [[31986264]{.underline}](https://www.ncbi.nlm.nih.gov/pubmed/31986264).
+
+32. Hui DS, Chow BK, Lo T, et al. Exhaled air dispersion during
+    > high-flow nasal cannula therapy *versus* CPAP *via* different
+    > masks. *Eur Respir J*. 2019;53(4). DOI:
     > [[10.1183/13993003.02339-2018]{.underline}](http://dx.doi.org/10.1183/13993003.02339-2018).
     > PMID:
     > [[30705129]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/30705129).
 
-29. Kallet RH, Matthay MA. Hyperoxic acute lung injury. *Respir Care*.
+33. Kallet RH, Matthay MA. Hyperoxic acute lung injury. *Respir Care*.
     > 2013;58(1):123-41. DOI:
     > [[10.4187/respcare.01963]{.underline}](http://dx.doi.org/10.4187/respcare.01963).
     > PMID:
     > [[23271823]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/23271823).
 
-30. Kim ES, Choe PG, Park WB, et al. Clinical Progression and Cytokine
+34. Kim ES, Choe PG, Park WB, et al. Clinical Progression and Cytokine
     > Profiles of Middle East Respiratory Syndrome Coronavirus
     > Infection. *J Korean Med Sci*. 2016;31(11):1717-1725. DOI:
     > [[10.3346/jkms.2016.31.11.1717]{.underline}](http://dx.doi.org/10.3346/jkms.2016.31.11.1717).
     > PMID:
     > [[27709848]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/27709848).
 
-31. Lee N, Allen Chan KC, Hui DS, et al. Effects of early corticosteroid
+35. Klumperman J, Locker JK, Meijer A, Horzinek MC, Geuze HJ, Rottier
+    > PJ. Coronavirus M proteins accumulate in the Golgi complex beyond
+    > the site of virion budding. *J Virol.* 1994;68(10):6523-34. PMCID:
+    > [[PMC237073]{.underline}](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc237073/).
+    > PMID:
+    > [[8083990]{.underline}](https://www.ncbi.nlm.nih.gov/pubmed/8083990).
+
+36. Kwong JC, Schwartz KL, Campitelli MA, Chung H, Crowcroft NS,
+    > Karnauchow T, et al. Acute Myocardial Infarction after
+    > Laboratory-Confirmed Influenza Infection. *N Engl J Med.*
+    > 2018;378(4):345-53. DOI:
+    > [[10.1056/NEJMoa1702090]{.underline}](https://doi.org/10.1056/nejmoa1702090).
+    > PMID:
+    > [[29365305]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/29365305).
+
+37. Lee N, Allen Chan KC, Hui DS, et al. Effects of early corticosteroid
     > treatment on plasma SARS-associated Coronavirus RNA concentrations
     > in adult patients. *J Clin Virol*. 2004;31(4):304-9. DOI:
     > [[10.1016/j.jcv.2004.07.006]{.underline}](http://dx.doi.org/10.1016/j.jcv.2004.07.006).
     > PMID:
     > [[15494274]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/15494274).
 
-32. Levi M, Scully M. How I treat disseminated intravascular
+38. Levi M, Scully M. How I treat disseminated intravascular
     > coagulation. *Blood*. 2018;131(8):845-854. DOI:
     > [[10.1182/blood-2017-10-804096]{.underline}](https://www.ncbi.nlm.nih.gov/pubmed/29255070).
     > PMID:
     > [[29255070]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/29255070).
 
-33. Lippi G, Plebani M. Procalcitonin in patients with severe
+39. Lippi G, Plebani M. Procalcitonin in patients with severe
     > coronavirus disease 2019: A meta-analysis. *Clin Chim Acta*.
     > 2020;505:190-191. DOI:
     > [[10.1016/j.cca.2020.03.004]{.underline}](https://www.ncbi.nlm.nih.gov/pubmed/32145275).
     > PMID:
     > [[32145275]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32145275).
 
-34. Liu X, Li Z, Liu S, et al. Therapeutic effects of dipyridamole on
+40. Liu X, Li Z, Liu S, et al. Therapeutic effects of dipyridamole on
     > COVID-19 patients with coagulation dysfunction. *medRxiv*. 2020.
     > DOI:
     > [[10.1101/2020.02.27.20027557]{.underline}](https://www.medrxiv.org/content/10.1101/2020.02.27.20027557v1).
     > Preprint.
 
-35. Luo W, Yu H, Gou J, et al. Clinical Pathology of Critical Patient
+41. Luo W, Yu H, Gou J, et al. Clinical Pathology of Critical Patient
     > with Novel Coronavirus Pneumonia (COVID-19). *Preprints*. 2020.
     > [[2020020407]{.underline}](https://www.preprints.org/manuscript/202002.0407/v1).
     > Preprint.
 
-36. MacIntyre CR, Chughtai AA, Barnes M, et al. The role of pneumonia
+42. MacIntyre CR, Chughtai AA, Barnes M, et al. The role of pneumonia
     > and secondary bacterial infection in fatal and serious outcomes of
     > pandemic influenza a(H1N1)pdm09. *BMC Infect Dis*. 2018 Dec
     > 7;18(1):637. DOI:
@@ -3540,14 +3646,23 @@ REFERENCES
     > PMID:
     > [[30526505]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/30526505).
 
-37. Mehta P, McAuley DF, Brown M, et al. COVID-19: consider cytokine
+43. Mehta P, McAuley DF, Brown M, et al. COVID-19: consider cytokine
     > storm syndromes and immunosuppression. *Lancet*.
     > 2020;S0140-6736(20)30628-0. DOI:
     > [[10.1016/S0140-6736(20)30628-0]{.underline}](https://www.ncbi.nlm.nih.gov/pubmed/32192578).
     > PMID:
     > [[32192578]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32192578).
 
-38. Nates JL, Nunnally M, Kleinpell R, et al. ICU Admission, Discharge,
+44. Mikkelsen ME, Christie JD, Lanken PN, Biester RC, Thompson BT,
+    > Bellamy SL, et al. The adult respiratory distress syndrome
+    > cognitive outcomes study: long-term neuropsychological function in
+    > survivors of acute lung injury. *Am J Respir Crit Care Med.*
+    > 2012;185(12):1307-15. DOI:
+    > [[10.1164/rccm.201111-2025OC]{.underline}](https://doi.org/10.1164/rccm.201111-2025oc).
+    > PMID:
+    > [[22492988]{.underline}](https://www.ncbi.nlm.nih.gov/pubmed/22492988).
+
+45. Nates JL, Nunnally M, Kleinpell R, et al. ICU Admission, Discharge,
     > and Triage Guidelines: A Framework to Enhance Clinical Operations,
     > Development of Institutional Policies, and Further Research. *Crit
     > Care Med.* 2016 Aug;44(8):1553-602. DOI:
@@ -3555,32 +3670,87 @@ REFERENCES
     > PMID:
     > [[27428118]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/27428118).
 
-39. Penn Medicine Treatment Guidelines for SARS-CoV-2 Infection. Mar
+46. National Health Commission & State Administration of Traditional
+    > Chinese Medicine. Diagnosis and Treatment Protocol for Novel
+    > Coronavirus Pneumonia (Trial Version 7). Mar 3, 2020.
+    > [[http://busan.china-consulate.org/chn/zt/4/P020200310548447287942.pdf]{.underline}](http://busan.china-consulate.org/chn/zt/4/P020200310548447287942.pdf).
+
+47. Nord JE, Shah PK, Rinaldi RZ, Weisman MH. Hydroxychloroquine
+    > cardiotoxicity in systemic lupus erythematosus: a report of 2
+    > cases and review of the literature. *Semin Arthritis Rheum.*
+    > 2004;33(5):336-51. DOI:
+    > [[10.1016/j.semarthrit.2003.09.012]{.underline}](https://doi.org/10.1016/j.semarthrit.2003.09.012).
+    > PMID:
+    > [[15079764]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/15079764).
+
+48. Olofsson S, Kumlin U, Dimock K, Arnberg N. Avian influenza and
+    > sialic acid receptors: more than meets the eye? *Lancet Infect
+    > Dis.* 2005;5(3):184-8. DOI:
+    > [[10.1016/S1473-3099(05)01311-3]{.underline}](https://doi.org/10.1016/s1473-3099(05)01311-3).
+    > PMID:
+    > [[15766653]{.underline}](https://www.ncbi.nlm.nih.gov/pubmed/15766653).
+
+49. Penn Medicine Treatment Guidelines for SARS-CoV-2 Infection. Mar
     > 14 2020. Accessed Mar 18 2020.
     > [[http://www.uphs.upenn.edu/antibiotics/COVID19.html]{.underline}](http://www.uphs.upenn.edu/antibiotics/COVID19.html).
 
-40. Ruan Q, Yang K, Wang W, et al. Clinical predictors of mortality due
+50. Rello J, Pérez M, Roca O, Poulakou G, Souto J, Laborda C, et al.
+    > High-flow nasal therapy in adults with severe acute respiratory
+    > infection: a cohort study in patients with 2009 influenza A/H1N1v.
+    > *J Crit Care*. 2012;27(5):434-9. DOI:
+    > [[10.1016/j.jcrc.2012.04.006]{.underline}](https://doi.org/10.1016/j.jcrc.2012.04.006).
+    > PMID:
+    > [[22762937]{.underline}](https://www.ncbi.nlm.nih.gov/pubmed/22762937).
+
+51. Ruan Q, Yang K, Wang W, et al. Clinical predictors of mortality due
     > to COVID-19 based on an analysis of data of 150 patients from
     > Wuhan, China. *Intensive Care Med*. 2020 Mar 3. DOI:
     > [[10.1007/s00134-020-05991-x]{.underline}](https://www.ncbi.nlm.nih.gov/pubmed/32125452).
     > PMID:
     > [[32125452]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32125452).
 
-41. Rubin DB, Danish HH, Ali AB, et al. Neurological toxicities
+52. Rubin DB, Danish HH, Ali AB, et al. Neurological toxicities
     > associated with chimeric antigen receptor T-cell therapy. *Brain*.
     > 2019;142(5):1334-1348. DOI:
     > [[10.1093/brain/awz053]{.underline}](https://www.ncbi.nlm.nih.gov/pubmed/30891590).
     > PMID:
     > [[30891590]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/30891590).
 
-42. Shahpori R, Stelfox HT, Doig CJ, Boiteau PJ, Zygun DA. Sequential
+53. Sandau KE, Funk M, Auerbach A, Barsness GW, Blum K, Cvach M, et al.
+    > Update to Practice Standards for Electrocardiographic Monitoring
+    > in Hospital Settings: A Scientific Statement From the American
+    > Heart Association. *Circulation.* 2017;136(19):e273-e344. DOI:
+    > [[10.1161/CIR.0000000000000527]{.underline}](https://doi.org/10.1161/cir.0000000000000527).
+    > PMID:
+    > [[28974521]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/28974521).
+
+54. Savarino A, Lucia MB, Rastrelli E, Rutella S, Golotta C, Morra E, et
+    > al. Anti-HIV effects of chloroquine: inhibition of viral particle
+    > glycosylation and synergism with protease inhibitors. *J Acquir
+    > Immune Defic Syndr.* 2004;35(3):223-32. DOI:
+    > [[10.1097/00126334-200403010-00002]{.underline}](https://doi.org/10.1097/00126334-200403010-00002).
+    > PMID:
+    > [[15076236]{.underline}](https://www.ncbi.nlm.nih.gov/pubmed/15076236).
+
+55. Schrezenmeier E, Dörner T. Mechanisms of action of
+    > hydroxychloroquine and chloroquine: implications for rheumatology.
+    > *Nat Rev Rheumatol.* 2020;16(3):155-66. DOI:
+    > [[10.1038/s41584-020-0372-x]{.underline}](https://doi.org/10.1038/s41584-020-0372-x).
+    > PMID:
+    > [[32034323]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32034323).
+
+56. Shah, N. Higher co-infection rates in COVID19. *Medium.* Mar
+    > 18, 2020.
+    > [[https://medium.com/\@nigam/higher-co-infection-rates-in-covid19-b24965088333]{.underline}](https://medium.com/@nigam/higher-co-infection-rates-in-covid19-b24965088333).
+
+57. Shahpori R, Stelfox HT, Doig CJ, Boiteau PJ, Zygun DA. Sequential
     > Organ Failure Assessment in H1N1 pandemic planning. *Crit Care
     > Med*. 2011 Apr;39(4):827-32. DOI:
     > [[10.1097/CCM.0b013e318206d548]{.underline}](https://www.ncbi.nlm.nih.gov/pubmed/21263327).
     > PMID:
     > [[21263327]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/21263327).
 
-43. Silversides JA, Major E, Ferguson AJ, et al. Conservative fluid
+58. Silversides JA, Major E, Ferguson AJ, et al. Conservative fluid
     > management or deresuscitation for patients with sepsis or acute
     > respiratory distress syndrome following the resuscitation phase of
     > critical illness: a systematic review and meta-analysis.
@@ -3589,27 +3759,33 @@ REFERENCES
     > PMID:
     > [[27734109]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/27734109).
 
-44. Stockman LJ, Bellamy R, Garner P. SARS: systematic review of
+59. Stockman LJ, Bellamy R, Garner P. SARS: systematic review of
     > treatment effects. *PLoS Med.* 2006;3:e343. DOI:
     > [[10.1371/journal.pmed.0030343]{.underline}](http://doi.org/10.1371/journal.pmed.0030343).
     > PMID:
     > [[16968120]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/16968120).
 
-45. Stevenson LW, Perloff JK. The limited reliability of physical signs
+60. Stevenson LW, Perloff JK. The limited reliability of physical signs
     > for estimating hemodynamics in chronic heart failure. *JAMA*.
     > 1989;261(6):884-8. DOI:
     > [[10.1001/jama.1989.03420060100040]{.underline}](http://dx.doi.org/10.1001/jama.1989.03420060100040).
     > PMID:
     > [[2913385]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/2913385).
 
-46. Tang N, Li D, Wang X, Sun Z. Abnormal coagulation parameters are
+61. Tang N, Li D, Wang X, Sun Z. Abnormal coagulation parameters are
     > associated with poor prognosis in patients with novel coronavirus
     > pneumonia. *J Thromb Haemost*. 2020 Feb. DOI:
     > [[10.1111/jth.14768]{.underline}](http://doi.org/10.1111/jth.14768).
     > PMID:
     > [[32073213]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32073213).
 
-47. Tran K, Cimon K, Severn M, Pessoa-Silva CL, Conly J. Aerosol
+62. Touret F, de Lamballerie X. Of chloroquine and COVID-19. *Antiviral
+    > Res.* 2020;177:104762. DOI:
+    > [[10.1016/j.antiviral.2020.104762]{.underline}](https://doi.org/10.1016/j.antiviral.2020.104762).
+    > PMID:
+    > [[32147496]{.underline}](https://www.ncbi.nlm.nih.gov/pubmed/32147496).
+
+63. Tran K, Cimon K, Severn M, Pessoa-Silva CL, Conly J. Aerosol
     > generating procedures and risk of transmission of acute
     > respiratory infections to healthcare workers: A systematic review.
     > *PLoS One.* 2012;7(4). DOI:
@@ -3617,37 +3793,51 @@ REFERENCES
     > PMID:
     > [[22563403]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/22563403).
 
-48. Tschöpe C, Cooper LT, Torre-Amione G, Van Linthout S. Management of
+64. Tschöpe C, Cooper LT, Torre-Amione G, Van Linthout S. Management of
     > Myocarditis-Related Cardiomyopathy in Adults. *Circ Res*.
     > 2019;124(11):1568-1583. DOI:
     > [[10.1161/CIRCRESAHA.118.313578]{.underline}](https://doi.org/10.1161/CIRCRESAHA.118.313578).
     > PMID:
     > [[31120823]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/31120823).
 
-49. Wang D, Hu B, Hu C, et al. Clinical Characteristics of 138
+65. Van Doremalen N, Bushmaker T, Morris DH, Holbrook MG, Gamble A,
+    > Williamson BN, et al. Aerosol and Surface Stability of SARS-CoV-2
+    > as Compared with SARS-CoV-1. *N Engl J Med.* 2020. DOI:
+    > [[10.1056/NEJMc2004973]{.underline}](https://doi.org/10.1056/NEJMc2004973).
+    > PMID:
+    > [[32182409]{.underline}](https://www.ncbi.nlm.nih.gov/pubmed/32182409).
+
+66. Vincent MJ, Bergeron E, Benjannet S, Erickson BR, Rollin PE, Ksiazek
+    > TG, et al. Chloroquine is a potent inhibitor of SARS coronavirus
+    > infection and spread. *Virol J.* 2005;2:69. DOI:
+    > [[10.1186/1743-422X-2-69]{.underline}](https://doi.org/10.1186/1743-422x-2-69).
+    > PMID:
+    > [[16115318]{.underline}](https://www.ncbi.nlm.nih.gov/pubmed/16115318).
+
+67. Wang D, Hu B, Hu C, et al. Clinical Characteristics of 138
     > Hospitalized Patients With 2019 Novel Coronavirus--Infected
     > Pneumonia in Wuhan, China. *JAMA*. 2020 Feb. DOI:
     > [[10.1001/jama.2020.1585]{.underline}](http://doi.org/10.1001/jama.2020.1585).
     > PMID:
     > [[32031570]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32031570).
 
-50. Wong CK, Lam CW, Wu AK, et al. Plasma inflammatory cytokines and
+68. Wong CK, Lam CW, Wu AK, et al. Plasma inflammatory cytokines and
     > chemokines in severe acute respiratory syndrome. *Clin Exp
     > Immunol*. 2004;136(1):95-103. DOI:
     > [[10.1111/j.1365-2249.2004.02415.x]{.underline}](http://dx.doi.org/10.1111/j.1365-2249.2004.02415.x).
     > PMID:
     > [[15030519]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/15030519).
 
-51. World Health Organization. Clinical management of severe acute
+69. World Health Organization. Clinical management of severe acute
     > respiratory infection when novel coronavirus (nCoV) infection is
     > suspected: interim guidance. *WHO*. 2020 Jan 12.
 
-52. World Health Organization. Clinical management of severe acute
+70. World Health Organization. Clinical management of severe acute
     > respiratory infection when novel coronavirus (nCoV) infection is
     > suspected: interim guidance. *WHO.* 2020 Mar 13.
     > [[http://apps.who.int/iris/handle/10665/331446]{.underline}](http://apps.who.int/iris/handle/10665/331446).
 
-53. Wu C, Chen X, Cai Y, et al. Risk Factors Associated With Acute
+71. Wu C, Chen X, Cai Y, et al. Risk Factors Associated With Acute
     > Respiratory Distress Syndrome and Death in Patients With
     > Coronavirus Disease 2019 Pneumonia in Wuhan, China. *JAMA Intern
     > Med*. 2020 Mar. DOI:
@@ -3655,19 +3845,31 @@ REFERENCES
     > PMID:
     > [[32167524]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32167524).
 
-54. Xianghong Y, Renhua S, Dechang C. \[Diagnosis and treatment of
+72. Xianghong Y, Renhua S, Dechang C. \[Diagnosis and treatment of
     > COVID-19: acute kidney injury cannot be ignored\]. *Natl Med J
     > China*. 2020;100(00):E017-E017. DOI:
     > [[10.3760/cma.j.cn112137-20200229-00520]{.underline}](http://doi.org/10.3760/cma.j.cn112137-20200229-00520).
     > PMID:
     > [[32145717]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32145717).
 
-55. Xie Y, Wang X, Yang P, Zhang S. COVID-19 Complicated by Acute
+73. Xie Y, Wang X, Yang P, Zhang S. COVID-19 Complicated by Acute
     > Pulmonary Embolism. *Radiol Cardiothoracic Imaging*. 2020;2(2).
     > DOI:
     > [[10.1148/ryct.2020200067]{.underline}](http://doi.org/10.1148/ryct.2020200067).
 
-56. Yang X, Yu Y, Xu J, et al. Clinical course and outcomes of
+74. Xing Q, Li G, Xing Y, Chen T, Li W, Ni W, et al. Precautions are
+    > Needed for COVID-19 Patients with Coinfection of Common
+    > Respiratory Pathogens. *medRxiv.* 2020. DOI:
+    > [[https://doi.org/10.1101/2020.02.29.20027698]{.underline}](https://doi.org/10.1101/2020.02.29.20027698).
+
+75. Xu Z, Shi L, Wang Y, Zhang J, Huang L, Zhang C, et al. Pathological
+    > findings of COVID-19 associated with acute respiratory distress
+    > syndrome. *Lancet Respir Med.* 2020. DOI:
+    > [[10.1016/S2213-2600(20)30076-X]{.underline}](https://doi.org/10.1016/s2213-2600(20)30076-x).
+    > PMID:
+    > [[32085846]{.underline}](https://www.ncbi.nlm.nih.gov/pubmed/32085846).
+
+76. Yang X, Yu Y, Xu J, et al. Clinical course and outcomes of
     > critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China:
     > a single-centered, retrospective, observational study. *Lancet
     > Respir Med.* 2020 Feb 24;S2213-2600(20)30079-5. DOI:
@@ -3675,7 +3877,16 @@ REFERENCES
     > PMID:
     > [[32105632]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32105632).
 
-57. Yao X, Ye F, Zhang M, et al. In Vitro Antiviral Activity and
+77. Yang ZY, Huang Y, Ganesh L, Leung K, Kong WP, Schwartz O, et al.
+    > pH-dependent entry of severe acute respiratory syndrome
+    > coronavirus is mediated by the spike glycoprotein and enhanced by
+    > dendritic cell transfer through DC-SIGN. *J Virol.*
+    > 2004;78(11):5642-50. DOI:
+    > [[10.1128/JVI.78.11.5642-5650.2004]{.underline}](https://doi.org/10.1128/jvi.78.11.5642-5650.2004).
+    > PMID:
+    > [[15140961]{.underline}](https://www.ncbi.nlm.nih.gov/pubmed/15140961).
+
+78. Yao X, Ye F, Zhang M, et al. In Vitro Antiviral Activity and
     > Projection of Optimized Dosing Design of Hydroxychloroquine for
     > the Treatment of Severe Acute Respiratory Syndrome Coronavirus 2
     > (SARS-CoV-2). *Clin Infect Dis*. 2020 Mar 9;ciaa237. DOI:
@@ -3683,47 +3894,47 @@ REFERENCES
     > PMID:
     > [[32150618]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32150618).
 
-58. Young BE, Ong SWX, Kalimuddin S, et al. Epidemiologic Features and
+79. Young BE, Ong SWX, Kalimuddin S, et al. Epidemiologic Features and
     > Clinical Course of Patients Infected With SARS-CoV-2 in Singapore.
     > *JAMA*. 2020 Mar 3. DOI:
     > [[10.1001/jama.2020.3204]{.underline}](http://doi.org/10.1001/jama.2020.3204).
     > PMID:
     > [[32125362]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32125362).
 
-59. Zeng J, Huang J, Pan L. How to balance acute myocardial infarction
+80. Zeng J, Huang J, Pan L. How to balance acute myocardial infarction
     > and COVID-19: the protocols from Sichuan Provincial People's
     > Hospital. *Intensive Care Med*. 2020 Mar 11. DOI:
     > [[10.1007/s00134-020-05993-9]{.underline}](http://doi.org/10.1007/s00134-020-05993-9).
     > PMID:
     > [[32162032]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32162032).
 
-60. Zeng JH, Liu Y, Yuan J, et al. First Case of COVID-19 Infection with
+81. Zeng JH, Liu Y, Yuan J, et al. First Case of COVID-19 Infection with
     > Fulminant Myocarditis Complication: Case Report and Insights.
     > *Preprints.* 2020, 2020030180. DOI:
     > [[10.20944/preprints202003.0180.v1]{.underline}](http://doi.org/10.20944/preprints202003.0180.v1).
     > Preprint.
 
-61. Zhang C, Shi L, Wang FS. Liver injury in COVID-19: management and
+82. Zhang C, Shi L, Wang FS. Liver injury in COVID-19: management and
     > challenges. *Lancet Gastroenterol Hepatol*. 2020 Mar
     > 4;S2468-1253(20)30057-1. DOI:
     > [[10.1016/S2468-1253(20)30057-1]{.underline}](http://doi.org/10.1016/S2468-1253(20)30057-1).
     > PMID:
     > [[32145190]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32145190).
 
-62. Zheng YY, Ma YT, Zhang JY, et al. COVID-19 and the cardiovascular
+83. Zheng YY, Ma YT, Zhang JY, et al. COVID-19 and the cardiovascular
     > system. *Nat Rev Cardiol*. 2020 Mar 5. DOI:
     > [[10.1038/s41569-020-0360-5]{.underline}](http://doi.org/10.1038/s41569-020-0360-5).
     > PMID:
     > [[32139904]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32139904).
 
-63. Zhonghua Jie He He Hu Xi Za Zhi. \[Expert consensus on chloroquine
+84. Zhonghua Jie He He Hu Xi Za Zhi. \[Expert consensus on chloroquine
     > phosphate for the treatment of novel coronavirus pneumonia\].
     > *CMAPH*. 2020 Feb;43(0):E019. DOI:
     > [[10.3760/cma.j.issn.1001-0939.2020.0019]{.underline}](http://doi.org/10.3760/cma.j.issn.1001-0939.2020.0019).
     > PMID:
     > [[32075365]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32075365).
 
-64. Zhonghua Xin Xue Guan Bing Za Zhi. \[Analysis of myocardial injury
+85. Zhonghua Xin Xue Guan Bing Za Zhi. \[Analysis of myocardial injury
     > in patients with COVID-19 and association between concomitant
     > cardiovascular diseases and severity of COVID-19\]. *CMAPH.* 2020
     > Mar;48(0):E008. DOI:
@@ -3731,7 +3942,7 @@ REFERENCES
     > PMID:
     > [[32141280]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32141280).
 
-65. Zhou F, Yu T, Du R, et al. Clinical course and risk factors for
+86. Zhou F, Yu T, Du R, et al. Clinical course and risk factors for
     > mortality of adult inpatients with COVID-19 in Wuhan, China: a
     > retrospective cohort study. *Lancet.* 2020 Mar
     > 11;S0140-6736(20)30566-3. DOI:
@@ -3739,14 +3950,14 @@ REFERENCES
     > PMID:
     > [[32171076]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32171076).
 
-66. Zhou P, Yang XL, Wang XG, et al. A pneumonia outbreak associated
+87. Zhou P, Yang XL, Wang XG, et al. A pneumonia outbreak associated
     > with a new coronavirus of probable bat origin. *Nature*.
     > 2020;579(7798):270-273. DOI:
     > [[10.1038/s41586-020-2012-7]{.underline}](http://doi.org/10.1038/s41586-020-2012-7).
     > PMID:
     > [[32015507]{.underline}](http://www.ncbi.nlm.nih.gov/pubmed/32015507).
 
-67. Zuo MZ, Huang YG, Ma WH, et al. Expert Recommendations for Tracheal
+88. Zuo MZ, Huang YG, Ma WH, et al. Expert Recommendations for Tracheal
     > Intubation in Critically ill Patients with Novel Coronavirus
     > Disease 2019. *Chin Med Sci J*. 2020 Feb 27. DOI:
     > [[10.24920/003724]{.underline}](http://doi.org/10.24920/003724).

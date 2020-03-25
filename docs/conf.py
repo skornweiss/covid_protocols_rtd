@@ -1,5 +1,9 @@
 master_doc = 'index'
 
+html_js_files = [
+    'js/custom.js',
+]
+
 html_theme_options = {
     'canonical_url': '',
     'analytics_id': 'UA-XXXXXXX-1',  #  Provided by Google in your dashboard

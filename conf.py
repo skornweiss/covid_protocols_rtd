@@ -12,5 +12,6 @@ html_theme_options = {
     'sticky_navigation': True,
     'navigation_depth': 4,
     'includehidden': True,
-    'titles_only': True
+    'titles_only': True,
+    'master_doc': 'index'
 }

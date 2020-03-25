@@ -1,3 +1,5 @@
+master_doc = 'index'
+
 html_theme_options = {
     'canonical_url': '',
     'analytics_id': 'UA-XXXXXXX-1',  #  Provided by Google in your dashboard
@@ -12,6 +14,5 @@ html_theme_options = {
     'sticky_navigation': True,
     'navigation_depth': 4,
     'includehidden': True,
-    'titles_only': True,
-    'master_doc': 'index'
+    'titles_only': True
 }

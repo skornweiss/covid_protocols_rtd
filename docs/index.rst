@@ -4,7 +4,7 @@
 
 **COVID-19 Critical Care Clinical Guidelines**
 
-Updated: 3/23/2020
+Updated: 3/25/2020
 
 **This document is a work in progress. We have much to learn.**
 
@@ -30,7 +30,7 @@ these guidelines were developed based on practice patterns and
 infrastructure at Brigham and Women’s Hospital in Boston, MA; local
 factors should be taken into account if utilized at other hospitals.
 
-COVID-19 one page Quick Guides:
+COVID-19 one-page Quick Guides:
 ===============================
 
 `COVID-19 Initial work-up QUICK
@@ -127,7 +127,7 @@ f. **Cause of death:**
    iii. ~7% cardiac or heart failure alone
 
    iv.  Mortality rate appears to correlate with age and availability of
-        medical resources (`Ruan et al, Intensive Care Med,
+        medical resources (Ruan et al, `Intensive Care Med,
         2020 <http://www.ncbi.nlm.nih.gov/pubmed/32125452>`__)
 
 Personal Protective Equipment and Infection Control
@@ -496,7 +496,7 @@ i. *Rationale*: General consensus suggests that HFNC and NIPPV increase
    2. Other studies with very limited power exist, such as a post-hoc
       analysis that found no secondary infections in medical staff from
       patients with influenza H1N1 treated with HFNC but was limited to
-      only n=20 (`Rello et al, J Crit Care,
+      only n=20 (Rello `et al, J Crit Care,
       2012 <http://www.ncbi.nlm.nih.gov/pubmed/22762937>`__);
 
    3. Exhaled air distances are minimally increased with CPAP pressures
@@ -511,7 +511,7 @@ a. **Early intubation:**
 
         1. Case reports from China suggest high failure rates for
            non-invasive ventilation, including high-flow nasal oxygen
-           (`Zuo et al, Chin Med Sci J,
+           (Zuo et al, `Chin Med Sci J,
            2020 <http://www.ncbi.nlm.nih.gov/pubmed/32102726>`__)
 
    ii.  For patients maintained on Venturi mask, once FiO2 = 60% and
@@ -554,9 +554,7 @@ c. **Initial tidal volume (Vt):**
 
       2. IBW women (kg) = 45.5 + 2.3 (height in inches – 60)
 
-..
-
-   |image1|
+|image1|
 
 d. **Initial respiratory rate 16-24, higher if acidosis present.**
 
@@ -570,8 +568,8 @@ e. **Initial PEEP based on BMI:**
 
 f. **Initial FiO2:**
 
-   i. 100% on intubation then rapidly wean to SpO2 92-96% (`Barrot et
-      al, N Engl J Med,
+   i. 100% on intubation then rapidly wean to SpO2 92-96% (Barrot et al,
+      `N Engl J Med,
       2020 <http://www.ncbi.nlm.nih.gov/pubmed/32160661>`__)
 
 g. **Obtain STAT portable CXR to confirm endotracheal tube location:**
@@ -814,17 +812,17 @@ d. **Adjusting Fi02:**
 
 e. **Rationale**:
 
-   i.  Avoiding hyperoxia: Extensive mammalian animal data demonstrates
-       that hyperoxic injury occurs at an FiO2 ≥ 75% (at sea level) with
-       the rate of injury increasing as FiO2 exceeds that threshold. In
-       multiple mammalian models, an FiO2 of 100% for 48 to 72 hours is
-       associated with nearly 100% mortality rate. In lung injury
-       models, the time to death is markedly attenuated. In an effort to
-       reduce the potential for hyperoxic injury, the threshold of FiO2
-       ≥ 75% triggers progressive intervention throughout this protocol:
-       increased sedation, paralysis, proning and ECMO consultation. For
-       a review of hyperoxic acute lung injury, see `Kallet and Matthay,
-       Respir Care,
+   i.  *Avoiding hyperoxia:* Extensive mammalian animal data
+       demonstrates that hyperoxic injury occurs at an FiO2 ≥ 75% (at
+       sea level) with the rate of injury increasing as FiO2 exceeds
+       that threshold. In multiple mammalian models, an FiO2 of 100% for
+       48 to 72 hours is associated with nearly 100% mortality rate. In
+       lung injury models, the time to death is markedly attenuated. In
+       an effort to reduce the potential for hyperoxic injury, the
+       threshold of FiO2 ≥ 75% triggers progressive intervention
+       throughout this protocol: increased sedation, paralysis, proning
+       and ECMO consultation. For a review of hyperoxic acute lung
+       injury, see `Kallet and Matthay, Respir Care,
        2013 <http://www.ncbi.nlm.nih.gov/pubmed/23271823>`__.
 
    ii. *Setting the lower oxygen limits:* There is debate on the proper
@@ -840,8 +838,8 @@ e. **Rationale**:
        with ARDS were randomized to their PaO2 55-70, SpO2 88-92%; or
        PaO2 90-105, SpO2 >95%); the trial was stopped after enrollment
        of 205 patients due to futility and safety concerns (44%
-       mortality in conservative oxygen group versus 30%; (`Barrot et
-       al, New Eng J Med,
+       mortality in conservative oxygen group versus 30%;
+       (`B <>`__\ `arrot et al, New Eng J Med,
        2020 <http://www.ncbi.nlm.nih.gov/pubmed/32160661>`__).
 
 Proning and Pulmonary Vasodilators
@@ -852,8 +850,8 @@ a. **Prone early:**
    i. We recommend early proning in severe ARDS without vasodilator
       trial (a departure from our typical practice for ARDS not due to
       COVID-19): < 36 hours from ARDS onset, start discussion of prone
-      when P:F < 150, prone within 12 hours of FiO2 > 75% (`Guérin et
-      al, N Engl J Med,
+      when P:F < 150, prone within 12 hours of FiO2 > 75% (Guérin et al,
+      `N Engl J Med,
       2013 <http://www.ncbi.nlm.nih.gov/pubmed/23688302>`__).
 
 b. **Eligibility criteria for proning:**
@@ -1219,7 +1217,7 @@ b. **Instructions for use:**
 
             i.  Limited *in vitro* data notes that iNO at high doses
                 inhibits replication of SARS-CoV, but this has not been
-                studied *in vivo*. (`Akerstrom et al, J Virol,
+                studied *in vivo*. (Akerstrom et al, `J Virol,
                 2005 <http://www.ncbi.nlm.nih.gov/pubmed/15650225>`__;
                 `Gebistorf et al, Cochrane Database Syst Rev,
                 2016 <http://www.ncbi.nlm.nih.gov/pubmed/27347773>`__)
@@ -1295,7 +1293,7 @@ a. **Pathophysiology:**
 
       1. IL-6 inhibitors are approved for cytokine activation syndrome
          complications related to Chimeric Antigen Receptor T cell
-         (CAR-T) therapy (`Brudno and Kochenderfer, Blood Rev,
+         (CAR-T) therapy (Brudno and Kochenderfer, `Blood Rev,
          2019 <http://www.ncbi.nlm.nih.gov/pubmed/30528964>`__; `Rubin
          et al, Brain,
          2019 <http://www.ncbi.nlm.nih.gov/pubmed/30891590>`__).
@@ -1378,12 +1376,12 @@ a. **Pathophysiology:**
 
    i.  Hydroxychloroquine (HQ) is an anti-malarial 4-aminoquinoline
        shown to have in vitro (but not yet in-vivo) activity against
-       diverse RNA viruses including SARS-CoV-1 (`Touret and de
+       diverse RNA viruses including SARS-CoV-1 (T\ `ouret and de
        Lamballerie, Antivir Res,
        2020 <http://www.ncbi.nlm.nih.gov/pubmed/32147496>`__).
 
-   ii. HQ is thought to act through multiple mechanisms (`Devaux et al,
-       Int J Antimicrob Agent,
+   ii. HQ is thought to act through multiple mechanisms (Devaux et al,
+       `Int J Antimicrob Agent,
        2020 <http://www.ncbi.nlm.nih.gov/pubmed/32171740>`__):
 
        1. **Inhibition of viral entry.** HQ inhibits synthesis of sialic
@@ -1414,14 +1412,14 @@ a. **Pathophysiology:**
        4. **Immune modulation.** HQ reduces toll-like receptors and
           cGAS-STING signaling. It has been shown to reduce release of a
           number of pro-inflammatory cytokines from several immune cell
-          types (`Schrezenmeier and Dorner, Nat Rev Rheum,
+          types (Schrezenmeier and Dorner, `Nat Rev Rheum,
           2020 <http://www.ncbi.nlm.nih.gov/pubmed/32034323>`__).
 
 b. **Data:**
 
    i.  An expert consensus group out of China suggests that Chloroquine
-       improved lung imaging and shortened disease course (`Zhonghua et
-       al, CMAPH,
+       improved lung imaging and shortened disease course (Zhonghua et
+       al, `CMAPH,
        2020 <http://www.ncbi.nlm.nih.gov/pubmed/32075365>`__).
        Chloroquine will be included in the next treatment guidelines
        from the National Health Commission, but the specific data on
@@ -1505,7 +1503,7 @@ a. **Pathophysiology:**
 
       2. It has also been hypothesized that the upregulation of ACE2 is
          therapeutic in COVID-19 and that ARBs might be protective in
-         during infection (`Gurwitz D, Drug Dev Res,
+         during infection (Gurwitz D, `Drug Dev Res,
          2020 <https://www.ncbi.nlm.nih.gov/pubmed/32129518>`__).
 
 b. **Recommendation:**
@@ -1621,7 +1619,7 @@ a. **Definition:**
 b. **Incidence**:
 
    i. Incidence of 7-22% in hospitalized patients with COVID-19 in China
-      (`Ruan et al, Intensive Care Med,
+      (Ruan et al, `Intensive Care Med,
       2020 <http://www.ncbi.nlm.nih.gov/pubmed/32125452>`__; `Wang et
       al, JAMA, 2020 <http://www.ncbi.nlm.nih.gov/pubmed/32031570>`__;
       `Chen et al, Lancet,
@@ -1654,8 +1652,8 @@ d. **Time course:**
 e. **Mechanism:**
 
    i. The mechanism is unknown, though several have been proposed, based
-      on very limited data outside of case series and reports (`Ruan et
-      al, Intensive Care Med,
+      on very limited data outside of case series and reports (Ruan et
+      al, `Intensive Care Med,
       2020 <https://www.ncbi.nlm.nih.gov/pubmed/32125452>`__; `Hu et al,
       Eur Heart J,
       2020 <http://www.ncbi.nlm.nih.gov/pubmed/32176300>`__; `Zeng et
@@ -1696,8 +1694,8 @@ b. **Telemetry:**
    ii.  At BWH, COVID-19 floor patients also have telemetry.
 
    iii. For hospitals, with resource-limitations, telemetry is most
-        important for patients who meet AHA criteria (`Sandau et al,
-        Circulation,
+        important for patients who meet AHA criteria (Sandau et al,
+        `Circulation,
         2017 <http://www.ncbi.nlm.nih.gov/pubmed/28974521>`__).
 
 c. **ECGs:**
@@ -1799,8 +1797,8 @@ a. **Incidence:**
 
       1. The incidence of ACS is about 6 times as high within seven days
          of an influenza diagnosis than during control interval -
-         incidence ratio 6.05 (95% CI, 3.86 to 9.50) (`Kwong et al,
-         NEJM, 2018 <http://www.ncbi.nlm.nih.gov/pubmed/29365305>`__).
+         incidence ratio 6.05 (95% CI, 3.86 to 9.50) (Kwong et al,
+         `NEJM, 2018 <http://www.ncbi.nlm.nih.gov/pubmed/29365305>`__).
 
 b. **Workup:**
 
@@ -1854,7 +1852,7 @@ a. **Incidence:**
 
    i.  Myocarditis and pericarditis are potential manifestations of
        COVID-19 and source of Acute Cardiac Injury, based on case
-       reports/case series (`Ruan et al, Intensive Care Med,
+       reports/case series (Ruan et al, `Intensive Care Med,
        2020 <http://www.ncbi.nlm.nih.gov/pubmed/32125452>`__; `Zeng et
        al, Preprints,
        2020 <http://dx.doi.org/10.20944/preprints202003.0180.v1>`__; `Hu
@@ -2029,10 +2027,10 @@ a. **Incidence:**
           a. 20% of non-survivors (`Zhou et al, Lancet,
              2020 <http://www.ncbi.nlm.nih.gov/pubmed/32171076>`__)
 
-          b. 16% of non-survivors (`Ruan et al, Intensive Care Med,
+          b. 16% of non-survivors (Ruan et al, `Intensive Care Med,
              2020 <http://www.ncbi.nlm.nih.gov/pubmed/32125452>`__)
 
-          c. 12-19% In H1N1 epidemic (`MacIntyre et al, BMC Infect Dis,
+          c. 12-19% In H1N1 epidemic (MacIntyre et al, `BMC Infect Dis,
              2018 <http://www.ncbi.nlm.nih.gov/pubmed/30526505>`__)
 
    ii. Concurrent Pneumocystis pneumonia has been reported in at least
@@ -2128,15 +2126,15 @@ e. **Incidence:**
        Moreover, there were higher rates in non-survivors (52%, n=28)
        compared to survivors (12%, n=16). Among 21 patients admitted to
        an ICU in Washington State 33% (n=7) developed a new
-       cardiomyopathy (`Arentz et al, JAMA,
+       cardiomyopathy (Arentz et al, `JAMA,
        2020 <http://www.ncbi.nlm.nih.gov/pubmed/32191259>`__). Notably,
        these patients tended to be older with more comorbidities and had
        a high mortality (11 of the 21 died).
 
    ii. Heart failure or myocardial damage contributed to death in 39%
        (n=29) of deaths in a series of 68 patients in Wuhan. Most (n=22
-       of 29) had concomitant respiratory failure (`Ruan et al,
-       Intensive Care Med,
+       of 29) had concomitant respiratory failure (Ruan et al,
+       `Intensive Care Med,
        2020 <http://www.ncbi.nlm.nih.gov/pubmed/32125452>`__).
 
 f. **Diagnosis:**
@@ -2310,20 +2308,18 @@ c. **Workup:**
        failure
 
    ii. CBC with diff, PT/INR, PTT, fibrinogen, d-dimer, ferritin, liver
-       function test, triglycerides, c-reactive protein (CRP) (`Ruan et
-       al, Intensive Care Med,
+       function test, triglycerides, c-reactive protein (CRP) (Ruan et
+       al, `Intensive Care Med,
        2020 <http://www.ncbi.nlm.nih.gov/pubmed/32125452>`__)
 
        1. CRP seems to correlate with disease severity and prognosis of
-          COVID-19 (`Ruan et al, Intensive Care Med,
+          COVID-19 (Ruan et al, `Intensive Care Med,
           2020 <http://www.ncbi.nlm.nih.gov/pubmed/32125452>`__; `Young
           et al\ , JAMA,
           2020 <http://www.ncbi.nlm.nih.gov/pubmed/32125362>`__)
 
-       2. An HScore (`MDcalc online
-          calculator <http://www.mdcalc.com/hscore-reactive-hemophagocytic-syndrome>`__)
-          may be helpful in estimating the probability of secondary HLH
-          in these patients
+       2. An HScore (MDcalc online calculator) may be helpful in
+          estimating the probability of secondary HLH in these patients
 
 d. **Management:**
 
@@ -2368,8 +2364,8 @@ Thrombotic Disease
 a. **Incidence:**
 
    i. Unclear incidence, though case reports suggest there may be
-      increased venous thromboembolism (VTE) in COVID-19 patients (`Xie
-      et al, Radiol Cardiothoracic Imaging,
+      increased venous thromboembolism (VTE) in COVID-19 patients (Xie
+      et al, `Radiol Cardiothoracic Imaging,
       2020 <http://doi.org/10.1148/ryct.2020200067>`__)
 
 b. **Pathophysiology:**
@@ -2453,8 +2449,7 @@ c. **Workup:**
 
    i.  Identify and treat underlying condition
 
-   ii. ISTH DIC score (`MDcalc online
-       calculator <http://www.mdcalc.com/isth-criteria-disseminated-intravascular-coagulation-dic>`__)
+   ii. ISTH DIC score (MDcalc online calculator)
 
        1. If score < 5, no DIC; recalculate in 1-2 days
 
@@ -2513,7 +2508,7 @@ a. **Incidence:**
 b. **Pathophysiology:**
 
    i. Likely that the most common pathophysiology will be acute tubular
-      necrosis (ATN) driven by shock (`Xianghong et al\ , Natl Med J
+      necrosis (ATN) driven by shock (Xianghong et al\ `, Natl Med J
       China, 2020 <http://www.ncbi.nlm.nih.gov/pubmed/32145717>`__) and
       in some cases cytokine storm.
 
@@ -2941,7 +2936,7 @@ readers, we expect to correct and revise as we as a society learn about
 COVID-19.
 
 We hope that this pandemic brings with it a new era of collaboration and
-speed in Evidence Based Medicine. We welcome all help and will be
+speed in Evidence Based Medicine. We welcome all help, and will be
 restructuring this to be more navigable and collaborative in the coming
 days.
 
@@ -3623,11 +3618,11 @@ CAM = Confusion Assessment Method
 RASS = Richmond Agitation and Sedation Scale
 
 .. |image0| image:: .//media/image1.jpg
-   :width: 4.88021in
-   :height: 0.97761in
+   :width: 0.84956in
+   :height: 0.97708in
 .. |image1| image:: .//media/image2.png
-   :width: 5.07292in
-   :height: 3.60938in
+   :width: 5.55752in
+   :height: 3.93354in
 .. |image2| image:: .//media/image3.png
    :width: 5.16146in
    :height: 1.31471in
@@ -3635,5 +3630,5 @@ RASS = Richmond Agitation and Sedation Scale
    :width: 3.27617in
    :height: 3.51563in
 .. |A screenshot of a cell phone Description automatically generated| image:: .//media/image5.png
-   :width: 6.5in
-   :height: 4.17222in
+   :width: 5.30973in
+   :height: 3.48763in

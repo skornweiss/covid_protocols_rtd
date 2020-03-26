@@ -1,5 +1,6 @@
-![](.//media/image1.jpg){width="0.8495581802274715in"
-height="0.9770833333333333in"}
+![A picture containing drawing Description automatically
+generated](.//media/image1.png){width="1.1238943569553805in"
+height="1.2487718722659669in"}
 
 **Brigham and Women's Hospital**
 

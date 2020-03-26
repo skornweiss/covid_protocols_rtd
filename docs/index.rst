@@ -1,4 +1,4 @@
-|image0|
+|A picture containing drawing Description automatically generated|
 
 **Brigham and Women’s Hospital**
 
@@ -3617,9 +3617,9 @@ CAM = Confusion Assessment Method
 
 RASS = Richmond Agitation and Sedation Scale
 
-.. |image0| image:: .//media/image1.jpg
-   :width: 0.84956in
-   :height: 0.97708in
+.. |A picture containing drawing Description automatically generated| image:: .//media/image1.png
+   :width: 1.12389in
+   :height: 1.24877in
 .. |image1| image:: .//media/image2.png
    :width: 5.55752in
    :height: 3.93354in
